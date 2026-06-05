@@ -1,0 +1,202 @@
+[
+  {
+    "code": "BRA",
+    "country": "Brazil",
+    "display_name": "Brazil",
+    "group": "Group C",
+    "logo": "https://media.api-sports.io/football/teams/6.png",
+    "national": true,
+    "promotion_status": "shape_checked",
+    "roster_checks": {
+      "final_squad_shape": true,
+      "goalkeeper_count": 3,
+      "player_count": 26
+    },
+    "roster_source": "api_football_players_squads_2026",
+    "roster_status": "api_squad_candidate",
+    "source_api_football_id": "6",
+    "source_team_id": "6",
+    "team_id": "6",
+    "venue": {
+      "city": "S\u00e3o Paulo, S\u00e3o Paulo",
+      "country": null,
+      "id": 11531,
+      "name": "Neo Qu\u00edmica Arena"
+    }
+  },
+  {
+    "code": "SWI",
+    "country": "Switzerland",
+    "display_name": "Switzerland",
+    "group": "Group B",
+    "logo": "https://media.api-sports.io/football/teams/15.png",
+    "national": true,
+    "promotion_status": "shape_checked",
+    "roster_checks": {
+      "final_squad_shape": true,
+      "goalkeeper_count": 3,
+      "player_count": 26
+    },
+    "roster_source": "api_football_players_squads_2026",
+    "roster_status": "api_squad_candidate",
+    "source_api_football_id": "15",
+    "source_team_id": "15",
+    "team_id": "15",
+    "venue": {
+      "city": "St. Gallen",
+      "country": null,
+      "id": 1543,
+      "name": "kybunpark"
+    }
+  },
+  {
+    "code": "AUS",
+    "country": "Australia",
+    "display_name": "Australia",
+    "group": "Group D",
+    "logo": "https://media.api-sports.io/football/teams/20.png",
+    "national": true,
+    "promotion_status": "shape_checked",
+    "roster_checks": {
+      "final_squad_shape": true,
+      "goalkeeper_count": 3,
+      "player_count": 26
+    },
+    "roster_source": "api_football_players_squads_2026",
+    "roster_status": "api_squad_candidate",
+    "source_api_football_id": "20",
+    "source_team_id": "20",
+    "team_id": "20",
+    "venue": {
+      "city": "Sydney",
+      "country": null,
+      "id": 18601,
+      "name": "CommBank Stadium"
+    }
+  },
+  {
+    "code": "MOR",
+    "country": "Morocco",
+    "display_name": "Morocco",
+    "group": "Group C",
+    "logo": "https://media.api-sports.io/football/teams/31.png",
+    "national": true,
+    "promotion_status": "candidate_not_final_shape",
+    "roster_checks": {
+      "final_squad_shape": false,
+      "goalkeeper_count": 3,
+      "player_count": 27
+    },
+    "roster_source": "api_football_players_squads_2026",
+    "roster_status": "api_squad_candidate",
+    "source_api_football_id": "31",
+    "source_team_id": "31",
+    "team_id": "31",
+    "venue": {
+      "city": "F\u00e8s",
+      "country": null,
+      "id": 2260,
+      "name": "Complexe Sportif de F\u00e8s"
+    }
+  },
+  {
+    "code": "TUR",
+    "country": "Turkey",
+    "display_name": "T\u00fcrkiye",
+    "group": "Group D",
+    "logo": "https://media.api-sports.io/football/teams/777.png",
+    "national": true,
+    "promotion_status": "candidate_not_final_shape",
+    "roster_checks": {
+      "final_squad_shape": false,
+      "goalkeeper_count": 5,
+      "player_count": 34
+    },
+    "roster_source": "api_football_players_squads_2026",
+    "roster_status": "api_squad_candidate",
+    "source_api_football_id": "777",
+    "source_team_id": "777",
+    "team_id": "777",
+    "venue": {
+      "city": "\u0130zmir",
+      "country": null,
+      "id": 22441,
+      "name": "G\u00fcrsel Aksel Stadyumu"
+    }
+  },
+  {
+    "code": "SCO",
+    "country": "Scotland",
+    "display_name": "Scotland",
+    "group": "Group C",
+    "logo": "https://media.api-sports.io/football/teams/1108.png",
+    "national": true,
+    "promotion_status": "shape_checked",
+    "roster_checks": {
+      "final_squad_shape": true,
+      "goalkeeper_count": 3,
+      "player_count": 26
+    },
+    "roster_source": "api_football_players_squads_2026",
+    "roster_status": "api_squad_candidate",
+    "source_api_football_id": "1108",
+    "source_team_id": "1108",
+    "team_id": "1108",
+    "venue": {
+      "city": "Glasgow",
+      "country": null,
+      "id": 2617,
+      "name": "Hampden Park"
+    }
+  },
+  {
+    "code": "QAT",
+    "country": "Qatar",
+    "display_name": "Qatar",
+    "group": "Group B",
+    "logo": "https://media.api-sports.io/football/teams/1569.png",
+    "national": false,
+    "promotion_status": "shape_checked",
+    "roster_checks": {
+      "final_squad_shape": true,
+      "goalkeeper_count": 3,
+      "player_count": 23
+    },
+    "roster_source": "api_football_players_squads_2026",
+    "roster_status": "api_squad_candidate",
+    "source_api_football_id": "1569",
+    "source_team_id": "1569",
+    "team_id": "1569",
+    "venue": {
+      "city": "Al Rayyan (Ar-Rayyan)",
+      "country": null,
+      "id": 22430,
+      "name": "Khalifa International Stadium"
+    }
+  },
+  {
+    "code": "HAI",
+    "country": "Haiti",
+    "display_name": "Haiti",
+    "group": "Group C",
+    "logo": "https://media.api-sports.io/football/teams/2386.png",
+    "national": true,
+    "promotion_status": "candidate_not_final_shape",
+    "roster_checks": {
+      "final_squad_shape": false,
+      "goalkeeper_count": 2,
+      "player_count": 23
+    },
+    "roster_source": "api_football_players_squads_2026",
+    "roster_status": "api_squad_candidate",
+    "source_api_football_id": "2386",
+    "source_team_id": "2386",
+    "team_id": "2386",
+    "venue": {
+      "city": "San Diego, California",
+      "country": null,
+      "id": 22425,
+      "name": "Snapdragon Stadium"
+    }
+  }
+]

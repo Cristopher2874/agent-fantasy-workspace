@@ -1,0 +1,4353 @@
+[
+  {
+    "age": 22,
+    "display_name": "P. Beach",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "number": 28,
+    "photo": "https://media.api-sports.io/football/players/353883.png",
+    "player_id": "353883",
+    "position": "GK",
+    "source_api_football_id": "353883",
+    "source_player_id": "353883",
+    "team_id": "20"
+  },
+  {
+    "age": 30,
+    "display_name": "P. Izzo",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "number": 12,
+    "photo": "https://media.api-sports.io/football/players/6870.png",
+    "player_id": "6870",
+    "position": "GK",
+    "source_api_football_id": "6870",
+    "source_player_id": "6870",
+    "team_id": "20"
+  },
+  {
+    "age": 33,
+    "display_name": "M. Ryan",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "number": 1,
+    "photo": "https://media.api-sports.io/football/players/2741.png",
+    "player_id": "2741",
+    "position": "GK",
+    "prior_stats": {
+      "appearances": 4,
+      "assists": 0,
+      "goals": 0,
+      "label": "Prior World Cup 2022",
+      "minutes": 360,
+      "red_cards": 0,
+      "saves": 12,
+      "season": 2022,
+      "starts": 4,
+      "yellow_cards": 0
+    },
+    "prior_stats_label": "Prior World Cup 2022",
+    "prior_world_cup_record": {
+      "appearances": 4,
+      "assists": 0,
+      "goals": 0,
+      "label": "Prior World Cup 2022",
+      "minutes": 360,
+      "red_cards": 0,
+      "saves": 12,
+      "season": 2022,
+      "starts": 4,
+      "yellow_cards": 0
+    },
+    "source_api_football_id": "2741",
+    "source_player_id": "2741",
+    "team_id": "20"
+  },
+  {
+    "age": 35,
+    "display_name": "A. Behich",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "number": 16,
+    "photo": "https://media.api-sports.io/football/players/225.png",
+    "player_id": "225",
+    "position": "DEF",
+    "prior_stats": {
+      "appearances": 4,
+      "assists": 0,
+      "goals": 0,
+      "label": "Prior World Cup 2022",
+      "minutes": 360,
+      "red_cards": 0,
+      "season": 2022,
+      "starts": 4,
+      "yellow_cards": 1
+    },
+    "prior_stats_label": "Prior World Cup 2022",
+    "prior_world_cup_record": {
+      "appearances": 4,
+      "assists": 0,
+      "goals": 0,
+      "label": "Prior World Cup 2022",
+      "minutes": 360,
+      "red_cards": 0,
+      "season": 2022,
+      "starts": 4,
+      "yellow_cards": 1
+    },
+    "source_api_football_id": "225",
+    "source_player_id": "225",
+    "team_id": "20"
+  },
+  {
+    "age": 23,
+    "display_name": "J. Bos",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "number": 5,
+    "photo": "https://media.api-sports.io/football/players/337587.png",
+    "player_id": "337587",
+    "position": "DEF",
+    "source_api_football_id": "337587",
+    "source_player_id": "337587",
+    "team_id": "20"
+  },
+  {
+    "age": 30,
+    "display_name": "C. Burgess",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "number": 21,
+    "photo": "https://media.api-sports.io/football/players/20457.png",
+    "player_id": "20457",
+    "position": "DEF",
+    "source_api_football_id": "20457",
+    "source_player_id": "20457",
+    "team_id": "20"
+  },
+  {
+    "age": 22,
+    "display_name": "A. Circati",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "number": 3,
+    "photo": "https://media.api-sports.io/football/players/348568.png",
+    "player_id": "348568",
+    "position": "DEF",
+    "source_api_football_id": "348568",
+    "source_player_id": "348568",
+    "team_id": "20"
+  },
+  {
+    "age": 32,
+    "display_name": "J. Geria",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "number": 25,
+    "photo": "https://media.api-sports.io/football/players/33847.png",
+    "player_id": "33847",
+    "position": "DEF",
+    "source_api_football_id": "33847",
+    "source_player_id": "33847",
+    "team_id": "20"
+  },
+  {
+    "age": 18,
+    "display_name": "L. Herrington",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "number": 26,
+    "photo": "https://media.api-sports.io/football/players/426480.png",
+    "player_id": "426480",
+    "position": "DEF",
+    "source_api_football_id": "426480",
+    "source_player_id": "426480",
+    "team_id": "20"
+  },
+  {
+    "age": 27,
+    "display_name": "H. Souttar",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "number": 19,
+    "photo": "https://media.api-sports.io/football/players/20079.png",
+    "player_id": "20079",
+    "position": "DEF",
+    "prior_stats": {
+      "appearances": 4,
+      "assists": 0,
+      "goals": 0,
+      "label": "Prior World Cup 2022",
+      "minutes": 360,
+      "red_cards": 0,
+      "season": 2022,
+      "starts": 4,
+      "yellow_cards": 0
+    },
+    "prior_stats_label": "Prior World Cup 2022",
+    "prior_world_cup_record": {
+      "appearances": 4,
+      "assists": 0,
+      "goals": 0,
+      "label": "Prior World Cup 2022",
+      "minutes": 360,
+      "red_cards": 0,
+      "season": 2022,
+      "starts": 4,
+      "yellow_cards": 0
+    },
+    "source_api_football_id": "20079",
+    "source_player_id": "20079",
+    "team_id": "20"
+  },
+  {
+    "age": 31,
+    "display_name": "M. Degenek",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "number": 2,
+    "photo": "https://media.api-sports.io/football/players/2742.png",
+    "player_id": "2742",
+    "position": "DEF",
+    "prior_stats": {
+      "appearances": 4,
+      "assists": 0,
+      "goals": 0,
+      "label": "Prior World Cup 2022",
+      "minutes": 190,
+      "red_cards": 0,
+      "season": 2022,
+      "starts": 2,
+      "yellow_cards": 2
+    },
+    "prior_stats_label": "Prior World Cup 2022",
+    "prior_world_cup_record": {
+      "appearances": 4,
+      "assists": 0,
+      "goals": 0,
+      "label": "Prior World Cup 2022",
+      "minutes": 190,
+      "red_cards": 0,
+      "season": 2022,
+      "starts": 2,
+      "yellow_cards": 2
+    },
+    "source_api_football_id": "2742",
+    "source_player_id": "2742",
+    "team_id": "20"
+  },
+  {
+    "age": 27,
+    "display_name": "C. Devlin",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "number": 17,
+    "photo": "https://media.api-sports.io/football/players/6832.png",
+    "player_id": "6832",
+    "position": "MID",
+    "prior_stats": {
+      "assists": 0,
+      "goals": 0,
+      "label": "Prior World Cup 2022",
+      "red_cards": 0,
+      "season": 2022,
+      "starts": 0,
+      "yellow_cards": 0
+    },
+    "prior_stats_label": "Prior World Cup 2022",
+    "prior_world_cup_record": {
+      "assists": 0,
+      "goals": 0,
+      "label": "Prior World Cup 2022",
+      "red_cards": 0,
+      "season": 2022,
+      "starts": 0,
+      "yellow_cards": 0
+    },
+    "source_api_football_id": "6832",
+    "source_player_id": "6832",
+    "team_id": "20"
+  },
+  {
+    "age": 29,
+    "display_name": "A. Hrusti\u0107",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "number": 10,
+    "photo": "https://media.api-sports.io/football/players/38123.png",
+    "player_id": "38123",
+    "position": "MID",
+    "prior_stats": {
+      "appearances": 3,
+      "assists": 0,
+      "goals": 0,
+      "label": "Prior World Cup 2022",
+      "minutes": 66,
+      "red_cards": 0,
+      "season": 2022,
+      "starts": 0,
+      "yellow_cards": 0
+    },
+    "prior_stats_label": "Prior World Cup 2022",
+    "prior_world_cup_record": {
+      "appearances": 3,
+      "assists": 0,
+      "goals": 0,
+      "label": "Prior World Cup 2022",
+      "minutes": 66,
+      "red_cards": 0,
+      "season": 2022,
+      "starts": 0,
+      "yellow_cards": 0
+    },
+    "source_api_football_id": "38123",
+    "source_player_id": "38123",
+    "team_id": "20"
+  },
+  {
+    "age": 32,
+    "display_name": "J. Irvine",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "number": 22,
+    "photo": "https://media.api-sports.io/football/players/2749.png",
+    "player_id": "2749",
+    "position": "MID",
+    "prior_stats": {
+      "appearances": 4,
+      "assists": 0,
+      "goals": 0,
+      "label": "Prior World Cup 2022",
+      "minutes": 355,
+      "red_cards": 0,
+      "season": 2022,
+      "starts": 4,
+      "yellow_cards": 2
+    },
+    "prior_stats_label": "Prior World Cup 2022",
+    "prior_world_cup_record": {
+      "appearances": 4,
+      "assists": 0,
+      "goals": 0,
+      "label": "Prior World Cup 2022",
+      "minutes": 355,
+      "red_cards": 0,
+      "season": 2022,
+      "starts": 4,
+      "yellow_cards": 2
+    },
+    "source_api_football_id": "2749",
+    "source_player_id": "2749",
+    "team_id": "20"
+  },
+  {
+    "age": 24,
+    "display_name": "J. Italiano",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "number": 23,
+    "photo": "https://media.api-sports.io/football/players/6808.png",
+    "player_id": "6808",
+    "position": "DEF",
+    "source_api_football_id": "6808",
+    "source_player_id": "6808",
+    "team_id": "20"
+  },
+  {
+    "age": 27,
+    "display_name": "A. O&apos;Neill",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "number": 13,
+    "photo": "https://media.api-sports.io/football/players/7050.png",
+    "player_id": "7050",
+    "position": "MID",
+    "source_api_football_id": "7050",
+    "source_player_id": "7050",
+    "team_id": "20"
+  },
+  {
+    "age": 20,
+    "display_name": "Paul Michael Junior Okon-Engstler",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "number": 20,
+    "photo": "https://media.api-sports.io/football/players/441269.png",
+    "player_id": "441269",
+    "position": "MID",
+    "source_api_football_id": "441269",
+    "source_player_id": "441269",
+    "team_id": "20"
+  },
+  {
+    "age": 24,
+    "display_name": "K. Trewin",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "number": 36,
+    "photo": "https://media.api-sports.io/football/players/153622.png",
+    "player_id": "153622",
+    "position": "DEF",
+    "source_api_football_id": "153622",
+    "source_player_id": "153622",
+    "team_id": "20"
+  },
+  {
+    "age": 22,
+    "display_name": "C. Volpato",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "number": 23,
+    "photo": "https://media.api-sports.io/football/players/342035.png",
+    "player_id": "342035",
+    "position": "MID",
+    "source_api_football_id": "342035",
+    "source_player_id": "342035",
+    "team_id": "20"
+  },
+  {
+    "age": 19,
+    "display_name": "N. Irankunda",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "number": 11,
+    "photo": "https://media.api-sports.io/football/players/338014.png",
+    "player_id": "338014",
+    "position": "FWD",
+    "source_api_football_id": "338014",
+    "source_player_id": "338014",
+    "team_id": "20"
+  },
+  {
+    "age": 34,
+    "display_name": "M. Leckie",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "number": 7,
+    "photo": "https://media.api-sports.io/football/players/2751.png",
+    "player_id": "2751",
+    "position": "MID",
+    "prior_stats": {
+      "appearances": 4,
+      "assists": 1,
+      "goals": 1,
+      "label": "Prior World Cup 2022",
+      "minutes": 336,
+      "red_cards": 0,
+      "season": 2022,
+      "starts": 4,
+      "yellow_cards": 0
+    },
+    "prior_stats_label": "Prior World Cup 2022",
+    "prior_world_cup_record": {
+      "appearances": 4,
+      "assists": 1,
+      "goals": 1,
+      "label": "Prior World Cup 2022",
+      "minutes": 336,
+      "red_cards": 0,
+      "season": 2022,
+      "starts": 4,
+      "yellow_cards": 0
+    },
+    "source_api_football_id": "2751",
+    "source_player_id": "2751",
+    "team_id": "20"
+  },
+  {
+    "age": 30,
+    "display_name": "A. Mabil",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "number": 38,
+    "photo": "https://media.api-sports.io/football/players/2755.png",
+    "player_id": "2755",
+    "position": "MID",
+    "prior_stats": {
+      "appearances": 2,
+      "assists": 0,
+      "goals": 0,
+      "label": "Prior World Cup 2022",
+      "minutes": 29,
+      "red_cards": 0,
+      "season": 2022,
+      "starts": 0,
+      "yellow_cards": 0
+    },
+    "prior_stats_label": "Prior World Cup 2022",
+    "prior_world_cup_record": {
+      "appearances": 2,
+      "assists": 0,
+      "goals": 0,
+      "label": "Prior World Cup 2022",
+      "minutes": 29,
+      "red_cards": 0,
+      "season": 2022,
+      "starts": 0,
+      "yellow_cards": 0
+    },
+    "source_api_football_id": "2755",
+    "source_player_id": "2755",
+    "team_id": "20"
+  },
+  {
+    "age": 26,
+    "display_name": "C. Metcalfe",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "number": 8,
+    "photo": "https://media.api-sports.io/football/players/6904.png",
+    "player_id": "6904",
+    "position": "MID",
+    "source_api_football_id": "6904",
+    "source_player_id": "6904",
+    "team_id": "20"
+  },
+  {
+    "age": 21,
+    "display_name": "M. Tour\u00e9",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "number": 9,
+    "photo": "https://media.api-sports.io/football/players/198352.png",
+    "player_id": "198352",
+    "position": "FWD",
+    "source_api_football_id": "198352",
+    "source_player_id": "198352",
+    "team_id": "20"
+  },
+  {
+    "age": 24,
+    "display_name": "N. Velupillay",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "number": 34,
+    "photo": "https://media.api-sports.io/football/players/312459.png",
+    "player_id": "312459",
+    "position": "FWD",
+    "source_api_football_id": "312459",
+    "source_player_id": "312459",
+    "team_id": "20"
+  },
+  {
+    "age": 25,
+    "display_name": "T. Yengi",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "photo": "https://media.api-sports.io/football/players/296645.png",
+    "player_id": "296645",
+    "position": "FWD",
+    "source_api_football_id": "296645",
+    "source_player_id": "296645",
+    "team_id": "20"
+  },
+  {
+    "age": 33,
+    "display_name": "Alisson Becker",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "number": 1,
+    "photo": "https://media.api-sports.io/football/players/280.png",
+    "player_id": "280",
+    "position": "GK",
+    "prior_stats": {
+      "appearances": 4,
+      "assists": 0,
+      "goals": 0,
+      "label": "Prior World Cup 2022",
+      "minutes": 380,
+      "red_cards": 0,
+      "saves": 5,
+      "season": 2022,
+      "starts": 4,
+      "yellow_cards": 0
+    },
+    "prior_stats_label": "Prior World Cup 2022",
+    "prior_world_cup_record": {
+      "appearances": 4,
+      "assists": 0,
+      "goals": 0,
+      "label": "Prior World Cup 2022",
+      "minutes": 380,
+      "red_cards": 0,
+      "saves": 5,
+      "season": 2022,
+      "starts": 4,
+      "yellow_cards": 0
+    },
+    "source_api_football_id": "280",
+    "source_player_id": "280",
+    "team_id": "6"
+  },
+  {
+    "age": 32,
+    "display_name": "Ederson",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "number": 23,
+    "photo": "https://media.api-sports.io/football/players/617.png",
+    "player_id": "617",
+    "position": "GK",
+    "prior_stats": {
+      "appearances": 1,
+      "assists": 0,
+      "goals": 0,
+      "label": "Prior World Cup 2022",
+      "minutes": 90,
+      "red_cards": 0,
+      "saves": 2,
+      "season": 2022,
+      "starts": 1,
+      "yellow_cards": 0
+    },
+    "prior_stats_label": "Prior World Cup 2022",
+    "prior_world_cup_record": {
+      "appearances": 1,
+      "assists": 0,
+      "goals": 0,
+      "label": "Prior World Cup 2022",
+      "minutes": 90,
+      "red_cards": 0,
+      "saves": 2,
+      "season": 2022,
+      "starts": 1,
+      "yellow_cards": 0
+    },
+    "source_api_football_id": "617",
+    "source_player_id": "617",
+    "team_id": "6"
+  },
+  {
+    "age": 38,
+    "display_name": "Weverton",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "number": 1,
+    "photo": "https://media.api-sports.io/football/players/2410.png",
+    "player_id": "2410",
+    "position": "GK",
+    "prior_stats": {
+      "appearances": 1,
+      "assists": 0,
+      "goals": 0,
+      "label": "Prior World Cup 2022",
+      "minutes": 10,
+      "red_cards": 0,
+      "season": 2022,
+      "starts": 0,
+      "yellow_cards": 0
+    },
+    "prior_stats_label": "Prior World Cup 2022",
+    "prior_world_cup_record": {
+      "appearances": 1,
+      "assists": 0,
+      "goals": 0,
+      "label": "Prior World Cup 2022",
+      "minutes": 10,
+      "red_cards": 0,
+      "season": 2022,
+      "starts": 0,
+      "yellow_cards": 0
+    },
+    "source_api_football_id": "2410",
+    "source_player_id": "2410",
+    "team_id": "6"
+  },
+  {
+    "age": 34,
+    "display_name": "Alex Sandro",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "number": 6,
+    "photo": "https://media.api-sports.io/football/players/860.png",
+    "player_id": "860",
+    "position": "DEF",
+    "prior_stats": {
+      "appearances": 3,
+      "assists": 0,
+      "goals": 0,
+      "label": "Prior World Cup 2022",
+      "minutes": 191,
+      "red_cards": 0,
+      "season": 2022,
+      "starts": 2,
+      "yellow_cards": 0
+    },
+    "prior_stats_label": "Prior World Cup 2022",
+    "prior_world_cup_record": {
+      "appearances": 3,
+      "assists": 0,
+      "goals": 0,
+      "label": "Prior World Cup 2022",
+      "minutes": 191,
+      "red_cards": 0,
+      "season": 2022,
+      "starts": 2,
+      "yellow_cards": 0
+    },
+    "source_api_football_id": "860",
+    "source_player_id": "860",
+    "team_id": "6"
+  },
+  {
+    "age": 28,
+    "display_name": "Bremer",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "number": 25,
+    "photo": "https://media.api-sports.io/football/players/30497.png",
+    "player_id": "30497",
+    "position": "DEF",
+    "prior_stats": {
+      "appearances": 2,
+      "assists": 0,
+      "goals": 0,
+      "label": "Prior World Cup 2022",
+      "minutes": 108,
+      "red_cards": 0,
+      "season": 2022,
+      "starts": 1,
+      "yellow_cards": 0
+    },
+    "prior_stats_label": "Prior World Cup 2022",
+    "prior_world_cup_record": {
+      "appearances": 2,
+      "assists": 0,
+      "goals": 0,
+      "label": "Prior World Cup 2022",
+      "minutes": 108,
+      "red_cards": 0,
+      "season": 2022,
+      "starts": 1,
+      "yellow_cards": 0
+    },
+    "source_api_football_id": "30497",
+    "source_player_id": "30497",
+    "team_id": "6"
+  },
+  {
+    "age": 28,
+    "display_name": "Gabriel Magalh\u00e3es",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "number": 3,
+    "photo": "https://media.api-sports.io/football/players/22224.png",
+    "player_id": "22224",
+    "position": "DEF",
+    "source_api_football_id": "22224",
+    "source_player_id": "22224",
+    "team_id": "6"
+  },
+  {
+    "age": 27,
+    "display_name": "Iba\u00f1ez",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "number": 15,
+    "photo": "https://media.api-sports.io/football/players/30424.png",
+    "player_id": "30424",
+    "position": "DEF",
+    "source_api_football_id": "30424",
+    "source_player_id": "30424",
+    "team_id": "6"
+  },
+  {
+    "age": 29,
+    "display_name": "L\u00e9o Pereira",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "number": 15,
+    "photo": "https://media.api-sports.io/football/players/10124.png",
+    "player_id": "10124",
+    "position": "DEF",
+    "source_api_football_id": "10124",
+    "source_player_id": "10124",
+    "team_id": "6"
+  },
+  {
+    "age": 31,
+    "display_name": "Marquinhos",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "number": 4,
+    "photo": "https://media.api-sports.io/football/players/257.png",
+    "player_id": "257",
+    "position": "DEF",
+    "prior_stats": {
+      "appearances": 5,
+      "assists": 0,
+      "goals": 0,
+      "label": "Prior World Cup 2022",
+      "minutes": 426,
+      "red_cards": 0,
+      "season": 2022,
+      "starts": 4,
+      "yellow_cards": 1
+    },
+    "prior_stats_label": "Prior World Cup 2022",
+    "prior_world_cup_record": {
+      "appearances": 5,
+      "assists": 0,
+      "goals": 0,
+      "label": "Prior World Cup 2022",
+      "minutes": 426,
+      "red_cards": 0,
+      "season": 2022,
+      "starts": 4,
+      "yellow_cards": 1
+    },
+    "source_api_football_id": "257",
+    "source_player_id": "257",
+    "team_id": "6"
+  },
+  {
+    "age": 31,
+    "display_name": "Douglas Santos",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "number": 6,
+    "photo": "https://media.api-sports.io/football/players/24866.png",
+    "player_id": "24866",
+    "position": "DEF",
+    "source_api_football_id": "24866",
+    "source_player_id": "24866",
+    "team_id": "6"
+  },
+  {
+    "age": 22,
+    "display_name": "Wesley",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "number": 2,
+    "photo": "https://media.api-sports.io/football/players/349001.png",
+    "player_id": "349001",
+    "position": "DEF",
+    "source_api_football_id": "349001",
+    "source_player_id": "349001",
+    "team_id": "6"
+  },
+  {
+    "age": 34,
+    "display_name": "Danilo",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "number": 2,
+    "photo": "https://media.api-sports.io/football/players/618.png",
+    "player_id": "618",
+    "position": "DEF",
+    "prior_stats": {
+      "appearances": 3,
+      "assists": 0,
+      "goals": 0,
+      "label": "Prior World Cup 2022",
+      "minutes": 282,
+      "red_cards": 0,
+      "season": 2022,
+      "starts": 3,
+      "yellow_cards": 1
+    },
+    "prior_stats_label": "Prior World Cup 2022",
+    "prior_world_cup_record": {
+      "appearances": 3,
+      "assists": 0,
+      "goals": 0,
+      "label": "Prior World Cup 2022",
+      "minutes": 282,
+      "red_cards": 0,
+      "season": 2022,
+      "starts": 3,
+      "yellow_cards": 1
+    },
+    "source_api_football_id": "618",
+    "source_player_id": "618",
+    "team_id": "6"
+  },
+  {
+    "age": 28,
+    "display_name": "Bruno Guimar\u00e3es",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "number": 8,
+    "photo": "https://media.api-sports.io/football/players/10135.png",
+    "player_id": "10135",
+    "position": "MID",
+    "prior_stats": {
+      "appearances": 2,
+      "assists": 0,
+      "goals": 0,
+      "label": "Prior World Cup 2022",
+      "minutes": 67,
+      "red_cards": 0,
+      "season": 2022,
+      "starts": 0,
+      "yellow_cards": 1
+    },
+    "prior_stats_label": "Prior World Cup 2022",
+    "prior_world_cup_record": {
+      "appearances": 2,
+      "assists": 0,
+      "goals": 0,
+      "label": "Prior World Cup 2022",
+      "minutes": 67,
+      "red_cards": 0,
+      "season": 2022,
+      "starts": 0,
+      "yellow_cards": 1
+    },
+    "source_api_football_id": "10135",
+    "source_player_id": "10135",
+    "team_id": "6"
+  },
+  {
+    "age": 33,
+    "display_name": "Casemiro",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "number": 5,
+    "photo": "https://media.api-sports.io/football/players/747.png",
+    "player_id": "747",
+    "position": "MID",
+    "prior_stats": {
+      "appearances": 4,
+      "assists": 0,
+      "goals": 1,
+      "label": "Prior World Cup 2022",
+      "minutes": 390,
+      "red_cards": 0,
+      "season": 2022,
+      "starts": 4,
+      "yellow_cards": 1
+    },
+    "prior_stats_label": "Prior World Cup 2022",
+    "prior_world_cup_record": {
+      "appearances": 4,
+      "assists": 0,
+      "goals": 1,
+      "label": "Prior World Cup 2022",
+      "minutes": 390,
+      "red_cards": 0,
+      "season": 2022,
+      "starts": 4,
+      "yellow_cards": 1
+    },
+    "source_api_football_id": "747",
+    "source_player_id": "747",
+    "team_id": "6"
+  },
+  {
+    "age": 32,
+    "display_name": "Fabinho",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "number": 15,
+    "photo": "https://media.api-sports.io/football/players/299.png",
+    "player_id": "299",
+    "position": "MID",
+    "prior_stats": {
+      "appearances": 1,
+      "assists": 0,
+      "goals": 0,
+      "label": "Prior World Cup 2022",
+      "minutes": 90,
+      "red_cards": 0,
+      "season": 2022,
+      "starts": 1,
+      "yellow_cards": 0
+    },
+    "prior_stats_label": "Prior World Cup 2022",
+    "prior_world_cup_record": {
+      "appearances": 1,
+      "assists": 0,
+      "goals": 0,
+      "label": "Prior World Cup 2022",
+      "minutes": 90,
+      "red_cards": 0,
+      "season": 2022,
+      "starts": 1,
+      "yellow_cards": 0
+    },
+    "source_api_football_id": "299",
+    "source_player_id": "299",
+    "team_id": "6"
+  },
+  {
+    "age": 28,
+    "display_name": "Lucas Paquet\u00e1",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "number": 11,
+    "photo": "https://media.api-sports.io/football/players/1646.png",
+    "player_id": "1646",
+    "position": "MID",
+    "prior_stats": {
+      "appearances": 4,
+      "assists": 1,
+      "goals": 1,
+      "label": "Prior World Cup 2022",
+      "minutes": 315,
+      "red_cards": 0,
+      "season": 2022,
+      "starts": 4,
+      "yellow_cards": 0
+    },
+    "prior_stats_label": "Prior World Cup 2022",
+    "prior_world_cup_record": {
+      "appearances": 4,
+      "assists": 1,
+      "goals": 1,
+      "label": "Prior World Cup 2022",
+      "minutes": 315,
+      "red_cards": 0,
+      "season": 2022,
+      "starts": 4,
+      "yellow_cards": 0
+    },
+    "source_api_football_id": "1646",
+    "source_player_id": "1646",
+    "team_id": "6"
+  },
+  {
+    "age": 24,
+    "display_name": "Danilo",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "photo": "https://media.api-sports.io/football/players/275170.png",
+    "player_id": "275170",
+    "position": "MID",
+    "source_api_football_id": "275170",
+    "source_player_id": "275170",
+    "team_id": "6"
+  },
+  {
+    "age": 26,
+    "display_name": "Matheus Cunha",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "number": 21,
+    "photo": "https://media.api-sports.io/football/players/1165.png",
+    "player_id": "1165",
+    "position": "FWD",
+    "source_api_football_id": "1165",
+    "source_player_id": "1165",
+    "team_id": "6"
+  },
+  {
+    "age": 19,
+    "display_name": "Endrick",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "number": 19,
+    "photo": "https://media.api-sports.io/football/players/377122.png",
+    "player_id": "377122",
+    "position": "FWD",
+    "source_api_football_id": "377122",
+    "source_player_id": "377122",
+    "team_id": "6"
+  },
+  {
+    "age": 24,
+    "display_name": "Luiz Henrique",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "number": 19,
+    "photo": "https://media.api-sports.io/football/players/265785.png",
+    "player_id": "265785",
+    "position": "FWD",
+    "source_api_football_id": "265785",
+    "source_player_id": "265785",
+    "team_id": "6"
+  },
+  {
+    "age": 24,
+    "display_name": "Gabriel Martinelli",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "number": 22,
+    "photo": "https://media.api-sports.io/football/players/127769.png",
+    "player_id": "127769",
+    "position": "FWD",
+    "prior_stats": {
+      "appearances": 3,
+      "assists": 0,
+      "goals": 0,
+      "label": "Prior World Cup 2022",
+      "minutes": 119,
+      "red_cards": 0,
+      "season": 2022,
+      "starts": 1,
+      "yellow_cards": 0
+    },
+    "prior_stats_label": "Prior World Cup 2022",
+    "prior_world_cup_record": {
+      "appearances": 3,
+      "assists": 0,
+      "goals": 0,
+      "label": "Prior World Cup 2022",
+      "minutes": 119,
+      "red_cards": 0,
+      "season": 2022,
+      "starts": 1,
+      "yellow_cards": 0
+    },
+    "source_api_football_id": "127769",
+    "source_player_id": "127769",
+    "team_id": "6"
+  },
+  {
+    "age": 33,
+    "display_name": "Neymar",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "number": 10,
+    "photo": "https://media.api-sports.io/football/players/276.png",
+    "player_id": "276",
+    "position": "FWD",
+    "prior_stats": {
+      "appearances": 3,
+      "assists": 1,
+      "goals": 2,
+      "label": "Prior World Cup 2022",
+      "minutes": 281,
+      "red_cards": 0,
+      "season": 2022,
+      "starts": 3,
+      "yellow_cards": 0
+    },
+    "prior_stats_label": "Prior World Cup 2022",
+    "prior_world_cup_record": {
+      "appearances": 3,
+      "assists": 1,
+      "goals": 2,
+      "label": "Prior World Cup 2022",
+      "minutes": 281,
+      "red_cards": 0,
+      "season": 2022,
+      "starts": 3,
+      "yellow_cards": 0
+    },
+    "source_api_football_id": "276",
+    "source_player_id": "276",
+    "team_id": "6"
+  },
+  {
+    "age": 29,
+    "display_name": "Raphinha",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "number": 10,
+    "photo": "https://media.api-sports.io/football/players/1496.png",
+    "player_id": "1496",
+    "position": "FWD",
+    "prior_stats": {
+      "appearances": 5,
+      "assists": 0,
+      "goals": 0,
+      "label": "Prior World Cup 2022",
+      "minutes": 317,
+      "red_cards": 0,
+      "season": 2022,
+      "starts": 4,
+      "yellow_cards": 0
+    },
+    "prior_stats_label": "Prior World Cup 2022",
+    "prior_world_cup_record": {
+      "appearances": 5,
+      "assists": 0,
+      "goals": 0,
+      "label": "Prior World Cup 2022",
+      "minutes": 317,
+      "red_cards": 0,
+      "season": 2022,
+      "starts": 4,
+      "yellow_cards": 0
+    },
+    "source_api_football_id": "1496",
+    "source_player_id": "1496",
+    "team_id": "6"
+  },
+  {
+    "age": 19,
+    "display_name": "Rayan",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "number": 7,
+    "photo": "https://media.api-sports.io/football/players/407806.png",
+    "player_id": "407806",
+    "position": "FWD",
+    "source_api_football_id": "407806",
+    "source_player_id": "407806",
+    "team_id": "6"
+  },
+  {
+    "age": 24,
+    "display_name": "Thiago",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "photo": "https://media.api-sports.io/football/players/196156.png",
+    "player_id": "196156",
+    "position": "FWD",
+    "source_api_football_id": "196156",
+    "source_player_id": "196156",
+    "team_id": "6"
+  },
+  {
+    "age": 25,
+    "display_name": "Vin\u00edcius J\u00fanior",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "number": 10,
+    "photo": "https://media.api-sports.io/football/players/762.png",
+    "player_id": "762",
+    "position": "FWD",
+    "prior_stats": {
+      "appearances": 4,
+      "assists": 2,
+      "goals": 1,
+      "label": "Prior World Cup 2022",
+      "minutes": 302,
+      "red_cards": 0,
+      "season": 2022,
+      "starts": 4,
+      "yellow_cards": 0
+    },
+    "prior_stats_label": "Prior World Cup 2022",
+    "prior_world_cup_record": {
+      "appearances": 4,
+      "assists": 2,
+      "goals": 1,
+      "label": "Prior World Cup 2022",
+      "minutes": 302,
+      "red_cards": 0,
+      "season": 2022,
+      "starts": 4,
+      "yellow_cards": 0
+    },
+    "source_api_football_id": "762",
+    "source_player_id": "762",
+    "team_id": "6"
+  },
+  {
+    "age": 23,
+    "display_name": "J. Duverger",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "number": 23,
+    "photo": "https://media.api-sports.io/football/players/123742.png",
+    "player_id": "123742",
+    "position": "GK",
+    "source_api_football_id": "123742",
+    "source_player_id": "123742",
+    "team_id": "2386"
+  },
+  {
+    "age": 24,
+    "display_name": "A. Pierre",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "number": 12,
+    "photo": "https://media.api-sports.io/football/players/174768.png",
+    "player_id": "174768",
+    "position": "GK",
+    "source_api_football_id": "174768",
+    "source_player_id": "174768",
+    "team_id": "2386"
+  },
+  {
+    "age": 35,
+    "display_name": "Ricardo Ade",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "number": 4,
+    "photo": "https://media.api-sports.io/football/players/12303.png",
+    "player_id": "12303",
+    "position": "DEF",
+    "source_api_football_id": "12303",
+    "source_player_id": "12303",
+    "team_id": "2386"
+  },
+  {
+    "age": 26,
+    "display_name": "H. Delcroix",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "number": 5,
+    "photo": "https://media.api-sports.io/football/players/1411.png",
+    "player_id": "1411",
+    "position": "DEF",
+    "source_api_football_id": "1411",
+    "source_player_id": "1411",
+    "team_id": "2386"
+  },
+  {
+    "age": 28,
+    "display_name": "J. Duverne",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "number": 22,
+    "photo": "https://media.api-sports.io/football/players/20655.png",
+    "player_id": "20655",
+    "position": "DEF",
+    "source_api_football_id": "20655",
+    "source_player_id": "20655",
+    "team_id": "2386"
+  },
+  {
+    "age": 26,
+    "display_name": "M. Exp\u00e9rience",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "number": 8,
+    "photo": "https://media.api-sports.io/football/players/190747.png",
+    "player_id": "190747",
+    "position": "DEF",
+    "source_api_football_id": "190747",
+    "source_player_id": "190747",
+    "team_id": "2386"
+  },
+  {
+    "age": 32,
+    "display_name": "D. Lacroix",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "number": 13,
+    "photo": "https://media.api-sports.io/football/players/102505.png",
+    "player_id": "102505",
+    "position": "DEF",
+    "source_api_football_id": "102505",
+    "source_player_id": "102505",
+    "team_id": "2386"
+  },
+  {
+    "age": 24,
+    "display_name": "W. Paugain",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "number": 24,
+    "photo": "https://media.api-sports.io/football/players/275367.png",
+    "player_id": "275367",
+    "position": "DEF",
+    "source_api_football_id": "275367",
+    "source_player_id": "275367",
+    "team_id": "2386"
+  },
+  {
+    "age": 27,
+    "display_name": "J. Bellegarde",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "number": 10,
+    "photo": "https://media.api-sports.io/football/players/20665.png",
+    "player_id": "20665",
+    "position": "MID",
+    "source_api_football_id": "20665",
+    "source_player_id": "20665",
+    "team_id": "2386"
+  },
+  {
+    "age": 25,
+    "display_name": "D. Jean-Jacques",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "number": 17,
+    "photo": "https://media.api-sports.io/football/players/338367.png",
+    "player_id": "338367",
+    "position": "MID",
+    "source_api_football_id": "338367",
+    "source_player_id": "338367",
+    "team_id": "2386"
+  },
+  {
+    "age": 27,
+    "display_name": "L. Pierre",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "number": 14,
+    "photo": "https://media.api-sports.io/football/players/20538.png",
+    "player_id": "20538",
+    "position": "MID",
+    "source_api_football_id": "20538",
+    "source_player_id": "20538",
+    "team_id": "2386"
+  },
+  {
+    "age": 21,
+    "display_name": "W. Pierre",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "number": 6,
+    "photo": "https://media.api-sports.io/football/players/371050.png",
+    "player_id": "371050",
+    "position": "MID",
+    "source_api_football_id": "371050",
+    "source_player_id": "371050",
+    "team_id": "2386"
+  },
+  {
+    "age": 23,
+    "display_name": "C. F. Sainte",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "number": 18,
+    "photo": "https://media.api-sports.io/football/players/540857.png",
+    "player_id": "540857",
+    "position": "MID",
+    "source_api_football_id": "540857",
+    "source_player_id": "540857",
+    "team_id": "2386"
+  },
+  {
+    "age": 25,
+    "display_name": "D. Simon",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "photo": "https://media.api-sports.io/football/players/194242.png",
+    "player_id": "194242",
+    "position": "MID",
+    "source_api_football_id": "194242",
+    "source_player_id": "194242",
+    "team_id": "2386"
+  },
+  {
+    "age": 24,
+    "display_name": "J. Casimir",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "number": 21,
+    "photo": "https://media.api-sports.io/football/players/174915.png",
+    "player_id": "174915",
+    "position": "FWD",
+    "source_api_football_id": "174915",
+    "source_player_id": "174915",
+    "team_id": "2386"
+  },
+  {
+    "age": 24,
+    "display_name": "L. Deedson",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "number": 11,
+    "photo": "https://media.api-sports.io/football/players/128766.png",
+    "player_id": "128766",
+    "position": "FWD",
+    "source_api_football_id": "128766",
+    "source_player_id": "128766",
+    "team_id": "2386"
+  },
+  {
+    "age": 29,
+    "display_name": "D. Etienne",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "number": 7,
+    "photo": "https://media.api-sports.io/football/players/50958.png",
+    "player_id": "50958",
+    "position": "FWD",
+    "source_api_football_id": "50958",
+    "source_player_id": "50958",
+    "team_id": "2386"
+  },
+  {
+    "age": 26,
+    "display_name": "Y. Fortun\u00e9",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "number": 19,
+    "photo": "https://media.api-sports.io/football/players/48535.png",
+    "player_id": "48535",
+    "position": "FWD",
+    "source_api_football_id": "48535",
+    "source_player_id": "48535",
+    "team_id": "2386"
+  },
+  {
+    "age": 25,
+    "display_name": "W. Isidor",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "number": 18,
+    "photo": "https://media.api-sports.io/football/players/84087.png",
+    "player_id": "84087",
+    "position": "FWD",
+    "source_api_football_id": "84087",
+    "source_player_id": "84087",
+    "team_id": "2386"
+  },
+  {
+    "age": 25,
+    "display_name": "L. Joseph",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "photo": "https://media.api-sports.io/football/players/21613.png",
+    "player_id": "21613",
+    "position": "FWD",
+    "source_api_football_id": "21613",
+    "source_player_id": "21613",
+    "team_id": "2386"
+  },
+  {
+    "age": 31,
+    "display_name": "D. Nazon",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "number": 9,
+    "photo": "https://media.api-sports.io/football/players/45020.png",
+    "player_id": "45020",
+    "position": "FWD",
+    "source_api_football_id": "45020",
+    "source_player_id": "45020",
+    "team_id": "2386"
+  },
+  {
+    "age": 30,
+    "display_name": "F. Pierrot",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "number": 20,
+    "photo": "https://media.api-sports.io/football/players/8601.png",
+    "player_id": "8601",
+    "position": "FWD",
+    "source_api_football_id": "8601",
+    "source_player_id": "8601",
+    "team_id": "2386"
+  },
+  {
+    "age": 24,
+    "display_name": "R. Providence",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "number": 15,
+    "photo": "https://media.api-sports.io/football/players/162733.png",
+    "player_id": "162733",
+    "position": "FWD",
+    "source_api_football_id": "162733",
+    "source_player_id": "162733",
+    "team_id": "2386"
+  },
+  {
+    "age": 34,
+    "display_name": "Y. Bounou",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "number": 1,
+    "photo": "https://media.api-sports.io/football/players/2701.png",
+    "player_id": "2701",
+    "position": "GK",
+    "prior_stats": {
+      "appearances": 6,
+      "assists": 0,
+      "goals": 0,
+      "label": "Prior World Cup 2022",
+      "minutes": 570,
+      "red_cards": 0,
+      "saves": 7,
+      "season": 2022,
+      "starts": 6,
+      "yellow_cards": 0
+    },
+    "prior_stats_label": "Prior World Cup 2022",
+    "prior_world_cup_record": {
+      "appearances": 6,
+      "assists": 0,
+      "goals": 0,
+      "label": "Prior World Cup 2022",
+      "minutes": 570,
+      "red_cards": 0,
+      "saves": 7,
+      "season": 2022,
+      "starts": 6,
+      "yellow_cards": 0
+    },
+    "source_api_football_id": "2701",
+    "source_player_id": "2701",
+    "team_id": "31"
+  },
+  {
+    "age": 36,
+    "display_name": "M. Mohamedi",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "number": 12,
+    "photo": "https://media.api-sports.io/football/players/2702.png",
+    "player_id": "2702",
+    "position": "GK",
+    "prior_stats": {
+      "appearances": 1,
+      "assists": 0,
+      "goals": 0,
+      "label": "Prior World Cup 2022",
+      "minutes": 90,
+      "red_cards": 0,
+      "saves": 3,
+      "season": 2022,
+      "starts": 1,
+      "yellow_cards": 0
+    },
+    "prior_stats_label": "Prior World Cup 2022",
+    "prior_world_cup_record": {
+      "appearances": 1,
+      "assists": 0,
+      "goals": 0,
+      "label": "Prior World Cup 2022",
+      "minutes": 90,
+      "red_cards": 0,
+      "saves": 3,
+      "season": 2022,
+      "starts": 1,
+      "yellow_cards": 0
+    },
+    "source_api_football_id": "2702",
+    "source_player_id": "2702",
+    "team_id": "31"
+  },
+  {
+    "age": 29,
+    "display_name": "A. Tagnaouti",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "number": 22,
+    "photo": "https://media.api-sports.io/football/players/2703.png",
+    "player_id": "2703",
+    "position": "GK",
+    "prior_stats": {
+      "assists": 0,
+      "goals": 0,
+      "label": "Prior World Cup 2022",
+      "red_cards": 0,
+      "season": 2022,
+      "starts": 0,
+      "yellow_cards": 0
+    },
+    "prior_stats_label": "Prior World Cup 2022",
+    "prior_world_cup_record": {
+      "assists": 0,
+      "goals": 0,
+      "label": "Prior World Cup 2022",
+      "red_cards": 0,
+      "season": 2022,
+      "starts": 0,
+      "yellow_cards": 0
+    },
+    "source_api_football_id": "2703",
+    "source_player_id": "2703",
+    "team_id": "31"
+  },
+  {
+    "age": 29,
+    "display_name": "N. Aguerd",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "number": 5,
+    "photo": "https://media.api-sports.io/football/players/21694.png",
+    "player_id": "21694",
+    "position": "DEF",
+    "prior_stats": {
+      "appearances": 4,
+      "assists": 0,
+      "goals": 0,
+      "label": "Prior World Cup 2022",
+      "minutes": 354,
+      "red_cards": 0,
+      "season": 2022,
+      "starts": 4,
+      "yellow_cards": 0
+    },
+    "prior_stats_label": "Prior World Cup 2022",
+    "prior_world_cup_record": {
+      "appearances": 4,
+      "assists": 0,
+      "goals": 0,
+      "label": "Prior World Cup 2022",
+      "minutes": 354,
+      "red_cards": 0,
+      "season": 2022,
+      "starts": 4,
+      "yellow_cards": 0
+    },
+    "source_api_football_id": "21694",
+    "source_player_id": "21694",
+    "team_id": "31"
+  },
+  {
+    "age": 28,
+    "display_name": "I. Diop",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "number": 3,
+    "photo": "https://media.api-sports.io/football/players/18814.png",
+    "player_id": "18814",
+    "position": "DEF",
+    "source_api_football_id": "18814",
+    "source_player_id": "18814",
+    "team_id": "31"
+  },
+  {
+    "age": 24,
+    "display_name": "Z. El Ouahdi",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "number": 11,
+    "photo": "https://media.api-sports.io/football/players/283252.png",
+    "player_id": "283252",
+    "position": "DEF",
+    "source_api_football_id": "283252",
+    "source_player_id": "283252",
+    "team_id": "31"
+  },
+  {
+    "age": 27,
+    "display_name": "A. Hakimi",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "number": 2,
+    "photo": "https://media.api-sports.io/football/players/9.png",
+    "player_id": "9",
+    "position": "DEF",
+    "prior_stats": {
+      "appearances": 7,
+      "assists": 1,
+      "goals": 0,
+      "label": "Prior World Cup 2022",
+      "minutes": 633,
+      "red_cards": 0,
+      "season": 2022,
+      "starts": 7,
+      "yellow_cards": 0
+    },
+    "prior_stats_label": "Prior World Cup 2022",
+    "prior_world_cup_record": {
+      "appearances": 7,
+      "assists": 1,
+      "goals": 0,
+      "label": "Prior World Cup 2022",
+      "minutes": 633,
+      "red_cards": 0,
+      "season": 2022,
+      "starts": 7,
+      "yellow_cards": 0
+    },
+    "source_api_football_id": "9",
+    "source_player_id": "9",
+    "team_id": "31"
+  },
+  {
+    "age": 22,
+    "display_name": "R. Halhal",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "number": 4,
+    "photo": "https://media.api-sports.io/football/players/326183.png",
+    "player_id": "326183",
+    "position": "DEF",
+    "source_api_football_id": "326183",
+    "source_player_id": "326183",
+    "team_id": "31"
+  },
+  {
+    "age": 28,
+    "display_name": "N. Mazraoui",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "number": 3,
+    "photo": "https://media.api-sports.io/football/players/545.png",
+    "player_id": "545",
+    "position": "DEF",
+    "prior_stats": {
+      "appearances": 5,
+      "assists": 0,
+      "goals": 0,
+      "label": "Prior World Cup 2022",
+      "minutes": 367,
+      "red_cards": 0,
+      "season": 2022,
+      "starts": 5,
+      "yellow_cards": 0
+    },
+    "prior_stats_label": "Prior World Cup 2022",
+    "prior_world_cup_record": {
+      "appearances": 5,
+      "assists": 0,
+      "goals": 0,
+      "label": "Prior World Cup 2022",
+      "minutes": 367,
+      "red_cards": 0,
+      "season": 2022,
+      "starts": 5,
+      "yellow_cards": 0
+    },
+    "source_api_football_id": "545",
+    "source_player_id": "545",
+    "team_id": "31"
+  },
+  {
+    "age": 22,
+    "display_name": "C. Riad",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "number": 6,
+    "photo": "https://media.api-sports.io/football/players/278898.png",
+    "player_id": "278898",
+    "position": "DEF",
+    "source_api_football_id": "278898",
+    "source_player_id": "278898",
+    "team_id": "31"
+  },
+  {
+    "age": 24,
+    "display_name": "A. Salah-Eddine",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "number": 26,
+    "photo": "https://media.api-sports.io/football/players/162451.png",
+    "player_id": "162451",
+    "position": "DEF",
+    "source_api_football_id": "162451",
+    "source_player_id": "162451",
+    "team_id": "31"
+  },
+  {
+    "age": 29,
+    "display_name": "S. Amrabat",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "number": 4,
+    "photo": "https://media.api-sports.io/football/players/74.png",
+    "player_id": "74",
+    "position": "MID",
+    "prior_stats": {
+      "appearances": 7,
+      "assists": 0,
+      "goals": 0,
+      "label": "Prior World Cup 2022",
+      "minutes": 660,
+      "red_cards": 0,
+      "season": 2022,
+      "starts": 7,
+      "yellow_cards": 1
+    },
+    "prior_stats_label": "Prior World Cup 2022",
+    "prior_world_cup_record": {
+      "appearances": 7,
+      "assists": 0,
+      "goals": 0,
+      "label": "Prior World Cup 2022",
+      "minutes": 660,
+      "red_cards": 0,
+      "season": 2022,
+      "starts": 7,
+      "yellow_cards": 1
+    },
+    "source_api_football_id": "74",
+    "source_player_id": "74",
+    "team_id": "31"
+  },
+  {
+    "age": 27,
+    "display_name": "Y. Belammari",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "number": 28,
+    "photo": "https://media.api-sports.io/football/players/146772.png",
+    "player_id": "146772",
+    "position": "MID",
+    "source_api_football_id": "146772",
+    "source_player_id": "146772",
+    "team_id": "31"
+  },
+  {
+    "age": 18,
+    "display_name": "A. Bouaddi",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "number": 20,
+    "photo": "https://media.api-sports.io/football/players/438688.png",
+    "player_id": "438688",
+    "position": "MID",
+    "source_api_football_id": "438688",
+    "source_player_id": "438688",
+    "team_id": "31"
+  },
+  {
+    "age": 26,
+    "display_name": "Brahim D\u00edaz",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "number": 10,
+    "photo": "https://media.api-sports.io/football/players/744.png",
+    "player_id": "744",
+    "position": "MID",
+    "source_api_football_id": "744",
+    "source_player_id": "744",
+    "team_id": "31"
+  },
+  {
+    "age": 24,
+    "display_name": "N. El Aynaoui",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "number": 24,
+    "photo": "https://media.api-sports.io/football/players/277003.png",
+    "player_id": "277003",
+    "position": "MID",
+    "source_api_football_id": "277003",
+    "source_player_id": "277003",
+    "team_id": "31"
+  },
+  {
+    "age": 21,
+    "display_name": "B. El Khannouss",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "number": 23,
+    "photo": "https://media.api-sports.io/football/players/340573.png",
+    "player_id": "340573",
+    "position": "MID",
+    "prior_stats": {
+      "appearances": 1,
+      "assists": 0,
+      "goals": 0,
+      "label": "Prior World Cup 2022",
+      "minutes": 56,
+      "red_cards": 0,
+      "season": 2022,
+      "starts": 1,
+      "yellow_cards": 0
+    },
+    "prior_stats_label": "Prior World Cup 2022",
+    "prior_world_cup_record": {
+      "appearances": 1,
+      "assists": 0,
+      "goals": 0,
+      "label": "Prior World Cup 2022",
+      "minutes": 56,
+      "red_cards": 0,
+      "season": 2022,
+      "starts": 1,
+      "yellow_cards": 0
+    },
+    "source_api_football_id": "340573",
+    "source_player_id": "340573",
+    "team_id": "31"
+  },
+  {
+    "age": 20,
+    "display_name": "S. El Mourabet",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "photo": "https://media.api-sports.io/football/players/415431.png",
+    "player_id": "415431",
+    "position": "MID",
+    "source_api_football_id": "415431",
+    "source_player_id": "415431",
+    "team_id": "31"
+  },
+  {
+    "age": 25,
+    "display_name": "A. Ounahi",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "number": 8,
+    "photo": "https://media.api-sports.io/football/players/129678.png",
+    "player_id": "129678",
+    "position": "MID",
+    "prior_stats": {
+      "appearances": 7,
+      "assists": 0,
+      "goals": 0,
+      "label": "Prior World Cup 2022",
+      "minutes": 570,
+      "red_cards": 0,
+      "season": 2022,
+      "starts": 6,
+      "yellow_cards": 1
+    },
+    "prior_stats_label": "Prior World Cup 2022",
+    "prior_world_cup_record": {
+      "appearances": 7,
+      "assists": 0,
+      "goals": 0,
+      "label": "Prior World Cup 2022",
+      "minutes": 570,
+      "red_cards": 0,
+      "season": 2022,
+      "starts": 6,
+      "yellow_cards": 1
+    },
+    "source_api_football_id": "129678",
+    "source_player_id": "129678",
+    "team_id": "31"
+  },
+  {
+    "age": 24,
+    "display_name": "I. Saibari",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "number": 11,
+    "photo": "https://media.api-sports.io/football/players/161897.png",
+    "player_id": "161897",
+    "position": "MID",
+    "source_api_football_id": "161897",
+    "source_player_id": "161897",
+    "team_id": "31"
+  },
+  {
+    "age": 20,
+    "display_name": "Gessime Yassine",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "number": 17,
+    "photo": "https://media.api-sports.io/football/players/369544.png",
+    "player_id": "369544",
+    "position": "MID",
+    "source_api_football_id": "369544",
+    "source_player_id": "369544",
+    "team_id": "31"
+  },
+  {
+    "age": 20,
+    "display_name": "A. Amaimouni",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "photo": "https://media.api-sports.io/football/players/535046.png",
+    "player_id": "535046",
+    "position": "FWD",
+    "source_api_football_id": "535046",
+    "source_player_id": "535046",
+    "team_id": "31"
+  },
+  {
+    "age": 24,
+    "display_name": "S. Benjdida",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "photo": "https://media.api-sports.io/football/players/325317.png",
+    "player_id": "325317",
+    "position": "FWD",
+    "source_api_football_id": "325317",
+    "source_player_id": "325317",
+    "team_id": "31"
+  },
+  {
+    "age": 32,
+    "display_name": "A. El Kaabi",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "number": 20,
+    "photo": "https://media.api-sports.io/football/players/2722.png",
+    "player_id": "2722",
+    "position": "FWD",
+    "source_api_football_id": "2722",
+    "source_player_id": "2722",
+    "team_id": "31"
+  },
+  {
+    "age": 24,
+    "display_name": "A. Ezzalzouli",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "number": 17,
+    "photo": "https://media.api-sports.io/football/players/181421.png",
+    "player_id": "181421",
+    "position": "FWD",
+    "prior_stats": {
+      "appearances": 3,
+      "assists": 0,
+      "goals": 0,
+      "label": "Prior World Cup 2022",
+      "minutes": 91,
+      "red_cards": 0,
+      "season": 2022,
+      "starts": 0,
+      "yellow_cards": 0
+    },
+    "prior_stats_label": "Prior World Cup 2022",
+    "prior_world_cup_record": {
+      "appearances": 3,
+      "assists": 0,
+      "goals": 0,
+      "label": "Prior World Cup 2022",
+      "minutes": 91,
+      "red_cards": 0,
+      "season": 2022,
+      "starts": 0,
+      "yellow_cards": 0
+    },
+    "source_api_football_id": "181421",
+    "source_player_id": "181421",
+    "team_id": "31"
+  },
+  {
+    "age": 29,
+    "display_name": "S. Rahimi",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "number": 9,
+    "photo": "https://media.api-sports.io/football/players/36579.png",
+    "player_id": "36579",
+    "position": "FWD",
+    "source_api_football_id": "36579",
+    "source_player_id": "36579",
+    "team_id": "31"
+  },
+  {
+    "age": 20,
+    "display_name": "C. Talbi",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "number": 21,
+    "photo": "https://media.api-sports.io/football/players/336659.png",
+    "player_id": "336659",
+    "position": "FWD",
+    "source_api_football_id": "336659",
+    "source_player_id": "336659",
+    "team_id": "31"
+  },
+  {
+    "age": 25,
+    "display_name": "Mahmud Abunada",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "number": 1,
+    "photo": "https://media.api-sports.io/football/players/42207.png",
+    "player_id": "42207",
+    "position": "GK",
+    "source_api_football_id": "42207",
+    "source_player_id": "42207",
+    "team_id": "1569"
+  },
+  {
+    "age": 27,
+    "display_name": "Meshaal Barsham",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "number": 22,
+    "photo": "https://media.api-sports.io/football/players/42021.png",
+    "player_id": "42021",
+    "position": "GK",
+    "prior_stats": {
+      "appearances": 2,
+      "assists": 0,
+      "goals": 0,
+      "label": "Prior World Cup 2022",
+      "minutes": 180,
+      "red_cards": 0,
+      "saves": 4,
+      "season": 2022,
+      "starts": 2,
+      "yellow_cards": 0
+    },
+    "prior_stats_label": "Prior World Cup 2022",
+    "prior_world_cup_record": {
+      "appearances": 2,
+      "assists": 0,
+      "goals": 0,
+      "label": "Prior World Cup 2022",
+      "minutes": 180,
+      "red_cards": 0,
+      "saves": 4,
+      "season": 2022,
+      "starts": 2,
+      "yellow_cards": 0
+    },
+    "source_api_football_id": "42021",
+    "source_player_id": "42021",
+    "team_id": "1569"
+  },
+  {
+    "age": 25,
+    "display_name": "Shehab Ellethy",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "number": 1,
+    "photo": "https://media.api-sports.io/football/players/42055.png",
+    "player_id": "42055",
+    "position": "GK",
+    "source_api_football_id": "42055",
+    "source_player_id": "42055",
+    "team_id": "1569"
+  },
+  {
+    "age": 26,
+    "display_name": "Homam Ahmed",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "number": 14,
+    "photo": "https://media.api-sports.io/football/players/175439.png",
+    "player_id": "175439",
+    "position": "DEF",
+    "prior_stats": {
+      "appearances": 3,
+      "assists": 0,
+      "goals": 0,
+      "label": "Prior World Cup 2022",
+      "minutes": 263,
+      "red_cards": 0,
+      "season": 2022,
+      "starts": 3,
+      "yellow_cards": 1
+    },
+    "prior_stats_label": "Prior World Cup 2022",
+    "prior_world_cup_record": {
+      "appearances": 3,
+      "assists": 0,
+      "goals": 0,
+      "label": "Prior World Cup 2022",
+      "minutes": 263,
+      "red_cards": 0,
+      "season": 2022,
+      "starts": 3,
+      "yellow_cards": 1
+    },
+    "source_api_football_id": "175439",
+    "source_player_id": "175439",
+    "team_id": "1569"
+  },
+  {
+    "age": 29,
+    "display_name": "Sultan Al Braik",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "number": 18,
+    "photo": "https://media.api-sports.io/football/players/42060.png",
+    "player_id": "42060",
+    "position": "DEF",
+    "source_api_football_id": "42060",
+    "source_player_id": "42060",
+    "team_id": "1569"
+  },
+  {
+    "age": 22,
+    "display_name": "A. Al Hussain",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "number": 25,
+    "photo": "https://media.api-sports.io/football/players/542542.png",
+    "player_id": "542542",
+    "position": "DEF",
+    "source_api_football_id": "542542",
+    "source_player_id": "542542",
+    "team_id": "1569"
+  },
+  {
+    "age": 20,
+    "display_name": "A. Al Oui",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "number": 13,
+    "photo": "https://media.api-sports.io/football/players/542548.png",
+    "player_id": "542548",
+    "position": "DEF",
+    "source_api_football_id": "542548",
+    "source_player_id": "542548",
+    "team_id": "1569"
+  },
+  {
+    "age": 26,
+    "display_name": "Youssef Ayman",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "number": 15,
+    "photo": "https://media.api-sports.io/football/players/42421.png",
+    "player_id": "42421",
+    "position": "DEF",
+    "source_api_football_id": "42421",
+    "source_player_id": "42421",
+    "team_id": "1569"
+  },
+  {
+    "age": 23,
+    "display_name": "Jassem Gaber",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "number": 5,
+    "photo": "https://media.api-sports.io/football/players/200981.png",
+    "player_id": "200981",
+    "position": "MID",
+    "prior_stats": {
+      "assists": 0,
+      "goals": 0,
+      "label": "Prior World Cup 2022",
+      "red_cards": 0,
+      "season": 2022,
+      "starts": 0,
+      "yellow_cards": 0
+    },
+    "prior_stats_label": "Prior World Cup 2022",
+    "prior_world_cup_record": {
+      "assists": 0,
+      "goals": 0,
+      "label": "Prior World Cup 2022",
+      "red_cards": 0,
+      "season": 2022,
+      "starts": 0,
+      "yellow_cards": 0
+    },
+    "source_api_football_id": "200981",
+    "source_player_id": "200981",
+    "team_id": "1569"
+  },
+  {
+    "age": 35,
+    "display_name": "Lucas Mendes",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "number": 3,
+    "photo": "https://media.api-sports.io/football/players/42288.png",
+    "player_id": "42288",
+    "position": "DEF",
+    "source_api_football_id": "42288",
+    "source_player_id": "42288",
+    "team_id": "1569"
+  },
+  {
+    "age": 29,
+    "display_name": "Assim Madibo",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "number": 23,
+    "photo": "https://media.api-sports.io/football/players/2535.png",
+    "player_id": "2535",
+    "position": "MID",
+    "prior_stats": {
+      "appearances": 2,
+      "assists": 0,
+      "goals": 0,
+      "label": "Prior World Cup 2022",
+      "minutes": 154,
+      "red_cards": 0,
+      "season": 2022,
+      "starts": 2,
+      "yellow_cards": 1
+    },
+    "prior_stats_label": "Prior World Cup 2022",
+    "prior_world_cup_record": {
+      "appearances": 2,
+      "assists": 0,
+      "goals": 0,
+      "label": "Prior World Cup 2022",
+      "minutes": 154,
+      "red_cards": 0,
+      "season": 2022,
+      "starts": 2,
+      "yellow_cards": 1
+    },
+    "source_api_football_id": "2535",
+    "source_player_id": "2535",
+    "team_id": "1569"
+  },
+  {
+    "age": 22,
+    "display_name": "Mohamed Al Manai",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "number": 26,
+    "photo": "https://media.api-sports.io/football/players/283174.png",
+    "player_id": "283174",
+    "position": "MID",
+    "source_api_football_id": "283174",
+    "source_player_id": "283174",
+    "team_id": "1569"
+  },
+  {
+    "age": 24,
+    "display_name": "Ali",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "number": 12,
+    "photo": "https://media.api-sports.io/football/players/534032.png",
+    "player_id": "534032",
+    "position": "MID",
+    "source_api_football_id": "534032",
+    "source_player_id": "534032",
+    "team_id": "1569"
+  },
+  {
+    "age": 32,
+    "display_name": "Ahmed Fathi",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "number": 20,
+    "photo": "https://media.api-sports.io/football/players/2539.png",
+    "player_id": "2539",
+    "position": "MID",
+    "source_api_football_id": "2539",
+    "source_player_id": "2539",
+    "team_id": "1569"
+  },
+  {
+    "age": 35,
+    "display_name": "Abdulaziz Hatem",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "number": 6,
+    "photo": "https://media.api-sports.io/football/players/2533.png",
+    "player_id": "2533",
+    "position": "MID",
+    "prior_stats": {
+      "appearances": 3,
+      "assists": 0,
+      "goals": 0,
+      "label": "Prior World Cup 2022",
+      "minutes": 196,
+      "red_cards": 0,
+      "season": 2022,
+      "starts": 2,
+      "yellow_cards": 0
+    },
+    "prior_stats_label": "Prior World Cup 2022",
+    "prior_world_cup_record": {
+      "appearances": 3,
+      "assists": 0,
+      "goals": 0,
+      "label": "Prior World Cup 2022",
+      "minutes": 196,
+      "red_cards": 0,
+      "season": 2022,
+      "starts": 2,
+      "yellow_cards": 0
+    },
+    "source_api_football_id": "2533",
+    "source_player_id": "2533",
+    "team_id": "1569"
+  },
+  {
+    "age": 27,
+    "display_name": "G. Laye",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "number": 4,
+    "photo": "https://media.api-sports.io/football/players/542536.png",
+    "player_id": "542536",
+    "position": "MID",
+    "source_api_football_id": "542536",
+    "source_player_id": "542536",
+    "team_id": "1569"
+  },
+  {
+    "age": 28,
+    "display_name": "Tarek Salman",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "number": 5,
+    "photo": "https://media.api-sports.io/football/players/2541.png",
+    "player_id": "2541",
+    "position": "MID",
+    "prior_stats": {
+      "appearances": 1,
+      "assists": 0,
+      "goals": 0,
+      "label": "Prior World Cup 2022",
+      "minutes": 14,
+      "red_cards": 0,
+      "season": 2022,
+      "starts": 0,
+      "yellow_cards": 0
+    },
+    "prior_stats_label": "Prior World Cup 2022",
+    "prior_world_cup_record": {
+      "appearances": 1,
+      "assists": 0,
+      "goals": 0,
+      "label": "Prior World Cup 2022",
+      "minutes": 14,
+      "red_cards": 0,
+      "season": 2022,
+      "starts": 0,
+      "yellow_cards": 0
+    },
+    "source_api_football_id": "2541",
+    "source_player_id": "2541",
+    "team_id": "1569"
+  },
+  {
+    "age": 26,
+    "display_name": "Mohammed Waad",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "number": 4,
+    "photo": "https://media.api-sports.io/football/players/42180.png",
+    "player_id": "42180",
+    "position": "MID",
+    "prior_stats": {
+      "appearances": 2,
+      "assists": 0,
+      "goals": 0,
+      "label": "Prior World Cup 2022",
+      "minutes": 33,
+      "red_cards": 0,
+      "season": 2022,
+      "starts": 0,
+      "yellow_cards": 0
+    },
+    "prior_stats_label": "Prior World Cup 2022",
+    "prior_world_cup_record": {
+      "appearances": 2,
+      "assists": 0,
+      "goals": 0,
+      "label": "Prior World Cup 2022",
+      "minutes": 33,
+      "red_cards": 0,
+      "season": 2022,
+      "starts": 0,
+      "yellow_cards": 0
+    },
+    "source_api_football_id": "42180",
+    "source_player_id": "42180",
+    "team_id": "1569"
+  },
+  {
+    "age": 29,
+    "display_name": "Akram Afif",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "number": 11,
+    "photo": "https://media.api-sports.io/football/players/2544.png",
+    "player_id": "2544",
+    "position": "FWD",
+    "prior_stats": {
+      "appearances": 3,
+      "assists": 0,
+      "goals": 0,
+      "label": "Prior World Cup 2022",
+      "minutes": 270,
+      "red_cards": 0,
+      "season": 2022,
+      "starts": 3,
+      "yellow_cards": 1
+    },
+    "prior_stats_label": "Prior World Cup 2022",
+    "prior_world_cup_record": {
+      "appearances": 3,
+      "assists": 0,
+      "goals": 0,
+      "label": "Prior World Cup 2022",
+      "minutes": 270,
+      "red_cards": 0,
+      "season": 2022,
+      "starts": 3,
+      "yellow_cards": 1
+    },
+    "source_api_football_id": "2544",
+    "source_player_id": "2544",
+    "team_id": "1569"
+  },
+  {
+    "age": 32,
+    "display_name": "Ahmed Alaa",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "number": 7,
+    "photo": "https://media.api-sports.io/football/players/2542.png",
+    "player_id": "2542",
+    "position": "FWD",
+    "prior_stats": {
+      "appearances": 1,
+      "assists": 0,
+      "goals": 0,
+      "label": "Prior World Cup 2022",
+      "minutes": 12,
+      "red_cards": 0,
+      "season": 2022,
+      "starts": 0,
+      "yellow_cards": 0
+    },
+    "prior_stats_label": "Prior World Cup 2022",
+    "prior_world_cup_record": {
+      "appearances": 1,
+      "assists": 0,
+      "goals": 0,
+      "label": "Prior World Cup 2022",
+      "minutes": 12,
+      "red_cards": 0,
+      "season": 2022,
+      "starts": 0,
+      "yellow_cards": 0
+    },
+    "source_api_football_id": "2542",
+    "source_player_id": "2542",
+    "team_id": "1569"
+  },
+  {
+    "age": 31,
+    "display_name": "Edmilson Junior",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "number": 8,
+    "photo": "https://media.api-sports.io/football/players/42075.png",
+    "player_id": "42075",
+    "position": "FWD",
+    "source_api_football_id": "42075",
+    "source_player_id": "42075",
+    "team_id": "1569"
+  },
+  {
+    "age": 20,
+    "display_name": "M. Gouda",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "number": 11,
+    "photo": "https://media.api-sports.io/football/players/542531.png",
+    "player_id": "542531",
+    "position": "FWD",
+    "source_api_football_id": "542531",
+    "source_player_id": "542531",
+    "team_id": "1569"
+  },
+  {
+    "age": 32,
+    "display_name": "Mohammed Muntari",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "number": 9,
+    "photo": "https://media.api-sports.io/football/players/42089.png",
+    "player_id": "42089",
+    "position": "FWD",
+    "prior_stats": {
+      "appearances": 3,
+      "assists": 0,
+      "goals": 1,
+      "label": "Prior World Cup 2022",
+      "minutes": 60,
+      "red_cards": 0,
+      "season": 2022,
+      "starts": 0,
+      "yellow_cards": 0
+    },
+    "prior_stats_label": "Prior World Cup 2022",
+    "prior_world_cup_record": {
+      "appearances": 3,
+      "assists": 0,
+      "goals": 1,
+      "label": "Prior World Cup 2022",
+      "minutes": 60,
+      "red_cards": 0,
+      "season": 2022,
+      "starts": 0,
+      "yellow_cards": 0
+    },
+    "source_api_football_id": "42089",
+    "source_player_id": "42089",
+    "team_id": "1569"
+  },
+  {
+    "age": 43,
+    "display_name": "C. Gordon",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "number": 21,
+    "photo": "https://media.api-sports.io/football/players/1106.png",
+    "player_id": "1106",
+    "position": "GK",
+    "source_api_football_id": "1106",
+    "source_player_id": "1106",
+    "team_id": "1108"
+  },
+  {
+    "age": 29,
+    "display_name": "A. Gunn",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "number": 1,
+    "photo": "https://media.api-sports.io/football/players/18933.png",
+    "player_id": "18933",
+    "position": "GK",
+    "source_api_football_id": "18933",
+    "source_player_id": "18933",
+    "team_id": "1108"
+  },
+  {
+    "age": 29,
+    "display_name": "L. Kelly",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "number": 12,
+    "photo": "https://media.api-sports.io/football/players/44937.png",
+    "player_id": "44937",
+    "position": "GK",
+    "source_api_football_id": "44937",
+    "source_player_id": "44937",
+    "team_id": "1108"
+  },
+  {
+    "age": 34,
+    "display_name": "G. Hanley",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "number": 5,
+    "photo": "https://media.api-sports.io/football/players/19066.png",
+    "player_id": "19066",
+    "position": "DEF",
+    "source_api_football_id": "19066",
+    "source_player_id": "19066",
+    "team_id": "1108"
+  },
+  {
+    "age": 30,
+    "display_name": "J. Hendry",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "number": 13,
+    "photo": "https://media.api-sports.io/football/players/1111.png",
+    "player_id": "1111",
+    "position": "DEF",
+    "source_api_football_id": "1111",
+    "source_player_id": "1111",
+    "team_id": "1108"
+  },
+  {
+    "age": 23,
+    "display_name": "A. Hickey",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "number": 2,
+    "photo": "https://media.api-sports.io/football/players/44871.png",
+    "player_id": "44871",
+    "position": "DEF",
+    "source_api_football_id": "44871",
+    "source_player_id": "44871",
+    "team_id": "1108"
+  },
+  {
+    "age": 30,
+    "display_name": "D. Hyam",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "number": 16,
+    "photo": "https://media.api-sports.io/football/players/19987.png",
+    "player_id": "19987",
+    "position": "DEF",
+    "source_api_football_id": "19987",
+    "source_player_id": "19987",
+    "team_id": "1108"
+  },
+  {
+    "age": 29,
+    "display_name": "S. McKenna",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "number": 26,
+    "photo": "https://media.api-sports.io/football/players/44811.png",
+    "player_id": "44811",
+    "position": "DEF",
+    "source_api_football_id": "44811",
+    "source_player_id": "44811",
+    "team_id": "1108"
+  },
+  {
+    "age": 24,
+    "display_name": "N. Patterson",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "number": 22,
+    "photo": "https://media.api-sports.io/football/players/138417.png",
+    "player_id": "138417",
+    "position": "DEF",
+    "source_api_football_id": "138417",
+    "source_player_id": "138417",
+    "team_id": "1108"
+  },
+  {
+    "age": 27,
+    "display_name": "A. Ralston",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "number": 24,
+    "photo": "https://media.api-sports.io/football/players/1115.png",
+    "player_id": "1115",
+    "position": "DEF",
+    "source_api_football_id": "1115",
+    "source_player_id": "1115",
+    "team_id": "1108"
+  },
+  {
+    "age": 31,
+    "display_name": "A. Robertson",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "number": 3,
+    "photo": "https://media.api-sports.io/football/players/289.png",
+    "player_id": "289",
+    "position": "DEF",
+    "source_api_football_id": "289",
+    "source_player_id": "289",
+    "team_id": "1108"
+  },
+  {
+    "age": 29,
+    "display_name": "J. Souttar",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "number": 15,
+    "photo": "https://media.api-sports.io/football/players/44865.png",
+    "player_id": "44865",
+    "position": "DEF",
+    "source_api_football_id": "44865",
+    "source_player_id": "44865",
+    "team_id": "1108"
+  },
+  {
+    "age": 28,
+    "display_name": "K. Tierney",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "number": 6,
+    "photo": "https://media.api-sports.io/football/players/1117.png",
+    "player_id": "1117",
+    "position": "DEF",
+    "source_api_football_id": "1117",
+    "source_player_id": "1117",
+    "team_id": "1108"
+  },
+  {
+    "age": 30,
+    "display_name": "R. Christie",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "number": 11,
+    "photo": "https://media.api-sports.io/football/players/1125.png",
+    "player_id": "1125",
+    "position": "MID",
+    "source_api_football_id": "1125",
+    "source_player_id": "1125",
+    "team_id": "1108"
+  },
+  {
+    "age": 19,
+    "display_name": "Findlay Curtis",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "number": 25,
+    "photo": "https://media.api-sports.io/football/players/433272.png",
+    "player_id": "433272",
+    "position": "MID",
+    "source_api_football_id": "433272",
+    "source_player_id": "433272",
+    "team_id": "1108"
+  },
+  {
+    "age": 26,
+    "display_name": "L. Ferguson",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "number": 19,
+    "photo": "https://media.api-sports.io/football/players/44814.png",
+    "player_id": "44814",
+    "position": "MID",
+    "source_api_football_id": "44814",
+    "source_player_id": "44814",
+    "team_id": "1108"
+  },
+  {
+    "age": 18,
+    "display_name": "T. Fletcher",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "number": 4,
+    "photo": "https://media.api-sports.io/football/players/557460.png",
+    "player_id": "557460",
+    "position": "MID",
+    "source_api_football_id": "557460",
+    "source_player_id": "557460",
+    "team_id": "1108"
+  },
+  {
+    "age": 31,
+    "display_name": "J.  McGinn",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "number": 7,
+    "photo": "https://media.api-sports.io/football/players/19191.png",
+    "player_id": "19191",
+    "position": "MID",
+    "source_api_football_id": "19191",
+    "source_player_id": "19191",
+    "team_id": "1108"
+  },
+  {
+    "age": 33,
+    "display_name": "K. McLean",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "number": 23,
+    "photo": "https://media.api-sports.io/football/players/19077.png",
+    "player_id": "19077",
+    "position": "MID",
+    "source_api_football_id": "19077",
+    "source_player_id": "19077",
+    "team_id": "1108"
+  },
+  {
+    "age": 29,
+    "display_name": "S. McTominay",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "number": 4,
+    "photo": "https://media.api-sports.io/football/players/903.png",
+    "player_id": "903",
+    "position": "MID",
+    "source_api_football_id": "903",
+    "source_player_id": "903",
+    "team_id": "1108"
+  },
+  {
+    "age": 29,
+    "display_name": "C. Adams",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "number": 10,
+    "photo": "https://media.api-sports.io/football/players/19524.png",
+    "player_id": "19524",
+    "position": "FWD",
+    "source_api_football_id": "19524",
+    "source_player_id": "19524",
+    "team_id": "1108"
+  },
+  {
+    "age": 30,
+    "display_name": "L. Dykes",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "number": 9,
+    "photo": "https://media.api-sports.io/football/players/45307.png",
+    "player_id": "45307",
+    "position": "FWD",
+    "source_api_football_id": "45307",
+    "source_player_id": "45307",
+    "team_id": "1108"
+  },
+  {
+    "age": 20,
+    "display_name": "B. Doak",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "number": 17,
+    "photo": "https://media.api-sports.io/football/players/343576.png",
+    "player_id": "343576",
+    "position": "MID",
+    "source_api_football_id": "343576",
+    "source_player_id": "343576",
+    "team_id": "1108"
+  },
+  {
+    "age": 26,
+    "display_name": "G. Hirst",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "number": 18,
+    "photo": "https://media.api-sports.io/football/players/8794.png",
+    "player_id": "8794",
+    "position": "FWD",
+    "source_api_football_id": "8794",
+    "source_player_id": "8794",
+    "team_id": "1108"
+  },
+  {
+    "age": 30,
+    "display_name": "L. Shankland",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "number": 20,
+    "photo": "https://media.api-sports.io/football/players/45175.png",
+    "player_id": "45175",
+    "position": "FWD",
+    "source_api_football_id": "45175",
+    "source_player_id": "45175",
+    "team_id": "1108"
+  },
+  {
+    "age": 29,
+    "display_name": "R. Stewart",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "number": 9,
+    "photo": "https://media.api-sports.io/football/players/45078.png",
+    "player_id": "45078",
+    "position": "FWD",
+    "source_api_football_id": "45078",
+    "source_player_id": "45078",
+    "team_id": "1108"
+  },
+  {
+    "age": 23,
+    "display_name": "M. Keller",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "number": 21,
+    "photo": "https://media.api-sports.io/football/players/123468.png",
+    "player_id": "123468",
+    "position": "GK",
+    "source_api_football_id": "123468",
+    "source_player_id": "123468",
+    "team_id": "15"
+  },
+  {
+    "age": 28,
+    "display_name": "G. Kobel",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "number": 1,
+    "photo": "https://media.api-sports.io/football/players/25282.png",
+    "player_id": "25282",
+    "position": "GK",
+    "prior_stats": {
+      "appearances": 1,
+      "assists": 0,
+      "goals": 0,
+      "label": "Prior World Cup 2022",
+      "minutes": 90,
+      "red_cards": 0,
+      "saves": 2,
+      "season": 2022,
+      "starts": 1,
+      "yellow_cards": 0
+    },
+    "prior_stats_label": "Prior World Cup 2022",
+    "prior_world_cup_record": {
+      "appearances": 1,
+      "assists": 0,
+      "goals": 0,
+      "label": "Prior World Cup 2022",
+      "minutes": 90,
+      "red_cards": 0,
+      "saves": 2,
+      "season": 2022,
+      "starts": 1,
+      "yellow_cards": 0
+    },
+    "source_api_football_id": "25282",
+    "source_player_id": "25282",
+    "team_id": "15"
+  },
+  {
+    "age": 31,
+    "display_name": "Y. Mvogo",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "number": 12,
+    "photo": "https://media.api-sports.io/football/players/1142.png",
+    "player_id": "1142",
+    "position": "GK",
+    "source_api_football_id": "1142",
+    "source_player_id": "1142",
+    "team_id": "15"
+  },
+  {
+    "age": 30,
+    "display_name": "M. Akanji",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "number": 5,
+    "photo": "https://media.api-sports.io/football/players/5.png",
+    "player_id": "5",
+    "position": "DEF",
+    "prior_stats": {
+      "appearances": 4,
+      "assists": 0,
+      "goals": 1,
+      "label": "Prior World Cup 2022",
+      "minutes": 360,
+      "red_cards": 0,
+      "season": 2022,
+      "starts": 4,
+      "yellow_cards": 1
+    },
+    "prior_stats_label": "Prior World Cup 2022",
+    "prior_world_cup_record": {
+      "appearances": 4,
+      "assists": 0,
+      "goals": 1,
+      "label": "Prior World Cup 2022",
+      "minutes": 360,
+      "red_cards": 0,
+      "season": 2022,
+      "starts": 4,
+      "yellow_cards": 1
+    },
+    "source_api_football_id": "5",
+    "source_player_id": "5",
+    "team_id": "15"
+  },
+  {
+    "age": 22,
+    "display_name": "A. Amenda",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "number": 24,
+    "photo": "https://media.api-sports.io/football/players/162414.png",
+    "player_id": "162414",
+    "position": "DEF",
+    "source_api_football_id": "162414",
+    "source_player_id": "162414",
+    "team_id": "15"
+  },
+  {
+    "age": 27,
+    "display_name": "E. C\u00f6mert",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "number": 18,
+    "photo": "https://media.api-sports.io/football/players/48372.png",
+    "player_id": "48372",
+    "position": "DEF",
+    "prior_stats": {
+      "appearances": 2,
+      "assists": 0,
+      "goals": 0,
+      "label": "Prior World Cup 2022",
+      "minutes": 46,
+      "red_cards": 0,
+      "season": 2022,
+      "starts": 0,
+      "yellow_cards": 1
+    },
+    "prior_stats_label": "Prior World Cup 2022",
+    "prior_world_cup_record": {
+      "appearances": 2,
+      "assists": 0,
+      "goals": 0,
+      "label": "Prior World Cup 2022",
+      "minutes": 46,
+      "red_cards": 0,
+      "season": 2022,
+      "starts": 0,
+      "yellow_cards": 1
+    },
+    "source_api_football_id": "48372",
+    "source_player_id": "48372",
+    "team_id": "15"
+  },
+  {
+    "age": 29,
+    "display_name": "N. Elvedi",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "number": 4,
+    "photo": "https://media.api-sports.io/football/players/2803.png",
+    "player_id": "2803",
+    "position": "DEF",
+    "prior_stats": {
+      "appearances": 2,
+      "assists": 0,
+      "goals": 0,
+      "label": "Prior World Cup 2022",
+      "minutes": 180,
+      "red_cards": 0,
+      "season": 2022,
+      "starts": 2,
+      "yellow_cards": 1
+    },
+    "prior_stats_label": "Prior World Cup 2022",
+    "prior_world_cup_record": {
+      "appearances": 2,
+      "assists": 0,
+      "goals": 0,
+      "label": "Prior World Cup 2022",
+      "minutes": 180,
+      "red_cards": 0,
+      "season": 2022,
+      "starts": 2,
+      "yellow_cards": 1
+    },
+    "source_api_football_id": "2803",
+    "source_player_id": "2803",
+    "team_id": "15"
+  },
+  {
+    "age": 22,
+    "display_name": "L. Jaquez",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "number": 25,
+    "photo": "https://media.api-sports.io/football/players/349344.png",
+    "player_id": "349344",
+    "position": "DEF",
+    "source_api_football_id": "349344",
+    "source_player_id": "349344",
+    "team_id": "15"
+  },
+  {
+    "age": 27,
+    "display_name": "M. Muheim",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "number": 2,
+    "photo": "https://media.api-sports.io/football/players/48489.png",
+    "player_id": "48489",
+    "position": "DEF",
+    "source_api_football_id": "48489",
+    "source_player_id": "48489",
+    "team_id": "15"
+  },
+  {
+    "age": 33,
+    "display_name": "R. Rodr\u00edguez",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "number": 13,
+    "photo": "https://media.api-sports.io/football/players/1631.png",
+    "player_id": "1631",
+    "position": "DEF",
+    "prior_stats": {
+      "appearances": 4,
+      "assists": 0,
+      "goals": 0,
+      "label": "Prior World Cup 2022",
+      "minutes": 359,
+      "red_cards": 0,
+      "season": 2022,
+      "starts": 4,
+      "yellow_cards": 0
+    },
+    "prior_stats_label": "Prior World Cup 2022",
+    "prior_world_cup_record": {
+      "appearances": 4,
+      "assists": 0,
+      "goals": 0,
+      "label": "Prior World Cup 2022",
+      "minutes": 359,
+      "red_cards": 0,
+      "season": 2022,
+      "starts": 4,
+      "yellow_cards": 0
+    },
+    "source_api_football_id": "1631",
+    "source_player_id": "1631",
+    "team_id": "15"
+  },
+  {
+    "age": 32,
+    "display_name": "S. Widmer",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "number": 3,
+    "photo": "https://media.api-sports.io/football/players/48378.png",
+    "player_id": "48378",
+    "position": "DEF",
+    "prior_stats": {
+      "appearances": 3,
+      "assists": 1,
+      "goals": 0,
+      "label": "Prior World Cup 2022",
+      "minutes": 266,
+      "red_cards": 0,
+      "season": 2022,
+      "starts": 3,
+      "yellow_cards": 1
+    },
+    "prior_stats_label": "Prior World Cup 2022",
+    "prior_world_cup_record": {
+      "appearances": 3,
+      "assists": 1,
+      "goals": 0,
+      "label": "Prior World Cup 2022",
+      "minutes": 266,
+      "red_cards": 0,
+      "season": 2022,
+      "starts": 3,
+      "yellow_cards": 1
+    },
+    "source_api_football_id": "48378",
+    "source_player_id": "48378",
+    "team_id": "15"
+  },
+  {
+    "age": 28,
+    "display_name": "M. Aebischer",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "number": 20,
+    "photo": "https://media.api-sports.io/football/players/951.png",
+    "player_id": "951",
+    "position": "MID",
+    "prior_stats": {
+      "appearances": 1,
+      "assists": 0,
+      "goals": 0,
+      "label": "Prior World Cup 2022",
+      "minutes": 14,
+      "red_cards": 0,
+      "season": 2022,
+      "starts": 0,
+      "yellow_cards": 0
+    },
+    "prior_stats_label": "Prior World Cup 2022",
+    "prior_world_cup_record": {
+      "appearances": 1,
+      "assists": 0,
+      "goals": 0,
+      "label": "Prior World Cup 2022",
+      "minutes": 14,
+      "red_cards": 0,
+      "season": 2022,
+      "starts": 0,
+      "yellow_cards": 0
+    },
+    "source_api_football_id": "951",
+    "source_player_id": "951",
+    "team_id": "15"
+  },
+  {
+    "age": 33,
+    "display_name": "R. Freuler",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "number": 8,
+    "photo": "https://media.api-sports.io/football/players/2807.png",
+    "player_id": "2807",
+    "position": "MID",
+    "prior_stats": {
+      "appearances": 4,
+      "assists": 0,
+      "goals": 1,
+      "label": "Prior World Cup 2022",
+      "minutes": 324,
+      "red_cards": 0,
+      "season": 2022,
+      "starts": 4,
+      "yellow_cards": 0
+    },
+    "prior_stats_label": "Prior World Cup 2022",
+    "prior_world_cup_record": {
+      "appearances": 4,
+      "assists": 0,
+      "goals": 1,
+      "label": "Prior World Cup 2022",
+      "minutes": 324,
+      "red_cards": 0,
+      "season": 2022,
+      "starts": 4,
+      "yellow_cards": 0
+    },
+    "source_api_football_id": "2807",
+    "source_player_id": "2807",
+    "team_id": "15"
+  },
+  {
+    "age": 23,
+    "display_name": "A. Jashari",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "number": 14,
+    "photo": "https://media.api-sports.io/football/players/264705.png",
+    "player_id": "264705",
+    "position": "MID",
+    "prior_stats": {
+      "appearances": 1,
+      "assists": 0,
+      "goals": 0,
+      "label": "Prior World Cup 2022",
+      "minutes": 1,
+      "red_cards": 0,
+      "season": 2022,
+      "starts": 0,
+      "yellow_cards": 0
+    },
+    "prior_stats_label": "Prior World Cup 2022",
+    "prior_world_cup_record": {
+      "appearances": 1,
+      "assists": 0,
+      "goals": 0,
+      "label": "Prior World Cup 2022",
+      "minutes": 1,
+      "red_cards": 0,
+      "season": 2022,
+      "starts": 0,
+      "yellow_cards": 0
+    },
+    "source_api_football_id": "264705",
+    "source_player_id": "264705",
+    "team_id": "15"
+  },
+  {
+    "age": 20,
+    "display_name": "J. Manzambi",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "number": 9,
+    "photo": "https://media.api-sports.io/football/players/406244.png",
+    "player_id": "406244",
+    "position": "FWD",
+    "source_api_football_id": "406244",
+    "source_player_id": "406244",
+    "team_id": "15"
+  },
+  {
+    "age": 28,
+    "display_name": "D. Sow",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "number": 15,
+    "photo": "https://media.api-sports.io/football/players/957.png",
+    "player_id": "957",
+    "position": "MID",
+    "prior_stats": {
+      "appearances": 4,
+      "assists": 1,
+      "goals": 0,
+      "label": "Prior World Cup 2022",
+      "minutes": 269,
+      "red_cards": 0,
+      "season": 2022,
+      "starts": 4,
+      "yellow_cards": 0
+    },
+    "prior_stats_label": "Prior World Cup 2022",
+    "prior_world_cup_record": {
+      "appearances": 4,
+      "assists": 1,
+      "goals": 0,
+      "label": "Prior World Cup 2022",
+      "minutes": 269,
+      "red_cards": 0,
+      "season": 2022,
+      "starts": 4,
+      "yellow_cards": 0
+    },
+    "source_api_football_id": "957",
+    "source_player_id": "957",
+    "team_id": "15"
+  },
+  {
+    "age": 27,
+    "display_name": "R. Vargas",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "number": 17,
+    "photo": "https://media.api-sports.io/football/players/48471.png",
+    "player_id": "48471",
+    "position": "FWD",
+    "prior_stats": {
+      "appearances": 4,
+      "assists": 1,
+      "goals": 0,
+      "label": "Prior World Cup 2022",
+      "minutes": 289,
+      "red_cards": 0,
+      "season": 2022,
+      "starts": 4,
+      "yellow_cards": 1
+    },
+    "prior_stats_label": "Prior World Cup 2022",
+    "prior_world_cup_record": {
+      "appearances": 4,
+      "assists": 1,
+      "goals": 0,
+      "label": "Prior World Cup 2022",
+      "minutes": 289,
+      "red_cards": 0,
+      "season": 2022,
+      "starts": 4,
+      "yellow_cards": 1
+    },
+    "source_api_football_id": "48471",
+    "source_player_id": "48471",
+    "team_id": "15"
+  },
+  {
+    "age": 33,
+    "display_name": "G. Xhaka",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "number": 10,
+    "photo": "https://media.api-sports.io/football/players/1464.png",
+    "player_id": "1464",
+    "position": "MID",
+    "prior_stats": {
+      "appearances": 4,
+      "assists": 0,
+      "goals": 0,
+      "label": "Prior World Cup 2022",
+      "minutes": 360,
+      "red_cards": 0,
+      "season": 2022,
+      "starts": 4,
+      "yellow_cards": 1
+    },
+    "prior_stats_label": "Prior World Cup 2022",
+    "prior_world_cup_record": {
+      "appearances": 4,
+      "assists": 0,
+      "goals": 0,
+      "label": "Prior World Cup 2022",
+      "minutes": 360,
+      "red_cards": 0,
+      "season": 2022,
+      "starts": 4,
+      "yellow_cards": 1
+    },
+    "source_api_football_id": "1464",
+    "source_player_id": "1464",
+    "team_id": "15"
+  },
+  {
+    "age": 29,
+    "display_name": "D. Zakaria",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "number": 6,
+    "photo": "https://media.api-sports.io/football/players/2810.png",
+    "player_id": "2810",
+    "position": "DEF",
+    "prior_stats": {
+      "appearances": 2,
+      "assists": 0,
+      "goals": 0,
+      "label": "Prior World Cup 2022",
+      "minutes": 57,
+      "red_cards": 0,
+      "season": 2022,
+      "starts": 0,
+      "yellow_cards": 0
+    },
+    "prior_stats_label": "Prior World Cup 2022",
+    "prior_world_cup_record": {
+      "appearances": 2,
+      "assists": 0,
+      "goals": 0,
+      "label": "Prior World Cup 2022",
+      "minutes": 57,
+      "red_cards": 0,
+      "season": 2022,
+      "starts": 0,
+      "yellow_cards": 0
+    },
+    "source_api_football_id": "2810",
+    "source_player_id": "2810",
+    "team_id": "15"
+  },
+  {
+    "age": 25,
+    "display_name": "Z. Amdouni",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "number": 23,
+    "photo": "https://media.api-sports.io/football/players/123469.png",
+    "player_id": "123469",
+    "position": "FWD",
+    "source_api_football_id": "123469",
+    "source_player_id": "123469",
+    "team_id": "15"
+  },
+  {
+    "age": 28,
+    "display_name": "B. Embolo",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "number": 7,
+    "photo": "https://media.api-sports.io/football/players/421.png",
+    "player_id": "421",
+    "position": "FWD",
+    "prior_stats": {
+      "appearances": 4,
+      "assists": 0,
+      "goals": 2,
+      "label": "Prior World Cup 2022",
+      "minutes": 326,
+      "red_cards": 0,
+      "season": 2022,
+      "starts": 4,
+      "yellow_cards": 0
+    },
+    "prior_stats_label": "Prior World Cup 2022",
+    "prior_world_cup_record": {
+      "appearances": 4,
+      "assists": 0,
+      "goals": 2,
+      "label": "Prior World Cup 2022",
+      "minutes": 326,
+      "red_cards": 0,
+      "season": 2022,
+      "starts": 4,
+      "yellow_cards": 0
+    },
+    "source_api_football_id": "421",
+    "source_player_id": "421",
+    "team_id": "15"
+  },
+  {
+    "age": 32,
+    "display_name": "C. Fassnacht",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "number": 16,
+    "photo": "https://media.api-sports.io/football/players/952.png",
+    "player_id": "952",
+    "position": "MID",
+    "prior_stats": {
+      "appearances": 1,
+      "assists": 0,
+      "goals": 0,
+      "label": "Prior World Cup 2022",
+      "minutes": 18,
+      "red_cards": 0,
+      "season": 2022,
+      "starts": 0,
+      "yellow_cards": 0
+    },
+    "prior_stats_label": "Prior World Cup 2022",
+    "prior_world_cup_record": {
+      "appearances": 1,
+      "assists": 0,
+      "goals": 0,
+      "label": "Prior World Cup 2022",
+      "minutes": 18,
+      "red_cards": 0,
+      "season": 2022,
+      "starts": 0,
+      "yellow_cards": 0
+    },
+    "source_api_football_id": "952",
+    "source_player_id": "952",
+    "team_id": "15"
+  },
+  {
+    "age": 29,
+    "display_name": "C. Itten",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "number": 26,
+    "photo": "https://media.api-sports.io/football/players/48497.png",
+    "player_id": "48497",
+    "position": "FWD",
+    "source_api_football_id": "48497",
+    "source_player_id": "48497",
+    "team_id": "15"
+  },
+  {
+    "age": 25,
+    "display_name": "D. Ndoye",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "number": 11,
+    "photo": "https://media.api-sports.io/football/players/48648.png",
+    "player_id": "48648",
+    "position": "MID",
+    "source_api_football_id": "48648",
+    "source_player_id": "48648",
+    "team_id": "15"
+  },
+  {
+    "age": 25,
+    "display_name": "N. Okafor",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "number": 19,
+    "photo": "https://media.api-sports.io/football/players/48389.png",
+    "player_id": "48389",
+    "position": "FWD",
+    "prior_stats": {
+      "appearances": 3,
+      "assists": 0,
+      "goals": 0,
+      "label": "Prior World Cup 2022",
+      "minutes": 43,
+      "red_cards": 0,
+      "season": 2022,
+      "starts": 0,
+      "yellow_cards": 0
+    },
+    "prior_stats_label": "Prior World Cup 2022",
+    "prior_world_cup_record": {
+      "appearances": 3,
+      "assists": 0,
+      "goals": 0,
+      "label": "Prior World Cup 2022",
+      "minutes": 43,
+      "red_cards": 0,
+      "season": 2022,
+      "starts": 0,
+      "yellow_cards": 0
+    },
+    "source_api_football_id": "48389",
+    "source_player_id": "48389",
+    "team_id": "15"
+  },
+  {
+    "age": 23,
+    "display_name": "F. Rieder",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "number": 22,
+    "photo": "https://media.api-sports.io/football/players/163032.png",
+    "player_id": "163032",
+    "position": "MID",
+    "prior_stats": {
+      "appearances": 2,
+      "assists": 0,
+      "goals": 0,
+      "label": "Prior World Cup 2022",
+      "minutes": 68,
+      "red_cards": 0,
+      "season": 2022,
+      "starts": 1,
+      "yellow_cards": 1
+    },
+    "prior_stats_label": "Prior World Cup 2022",
+    "prior_world_cup_record": {
+      "appearances": 2,
+      "assists": 0,
+      "goals": 0,
+      "label": "Prior World Cup 2022",
+      "minutes": 68,
+      "red_cards": 0,
+      "season": 2022,
+      "starts": 1,
+      "yellow_cards": 1
+    },
+    "source_api_football_id": "163032",
+    "source_player_id": "163032",
+    "team_id": "15"
+  },
+  {
+    "age": 27,
+    "display_name": "A. Bay\u0131nd\u0131r",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "number": 12,
+    "photo": "https://media.api-sports.io/football/players/50132.png",
+    "player_id": "50132",
+    "position": "GK",
+    "source_api_football_id": "50132",
+    "source_player_id": "50132",
+    "team_id": "777"
+  },
+  {
+    "age": 29,
+    "display_name": "U. \u00c7ak\u0131r",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "number": 23,
+    "photo": "https://media.api-sports.io/football/players/49866.png",
+    "player_id": "49866",
+    "position": "GK",
+    "source_api_football_id": "49866",
+    "source_player_id": "49866",
+    "team_id": "777"
+  },
+  {
+    "age": 25,
+    "display_name": "E. Destano\u011flu",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "number": 1,
+    "photo": "https://media.api-sports.io/football/players/1971.png",
+    "player_id": "1971",
+    "position": "GK",
+    "source_api_football_id": "1971",
+    "source_player_id": "1971",
+    "team_id": "777"
+  },
+  {
+    "age": 36,
+    "display_name": "M. G\u00fcnok",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "number": 1,
+    "photo": "https://media.api-sports.io/football/players/49837.png",
+    "player_id": "49837",
+    "position": "GK",
+    "source_api_football_id": "49837",
+    "source_player_id": "49837",
+    "team_id": "777"
+  },
+  {
+    "age": 29,
+    "display_name": "M. \u015eengezer",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "number": 23,
+    "photo": "https://media.api-sports.io/football/players/50218.png",
+    "player_id": "50218",
+    "position": "GK",
+    "source_api_football_id": "50218",
+    "source_player_id": "50218",
+    "team_id": "777"
+  },
+  {
+    "age": 31,
+    "display_name": "S. Akaydin",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "number": 14,
+    "photo": "https://media.api-sports.io/football/players/62490.png",
+    "player_id": "62490",
+    "position": "DEF",
+    "source_api_football_id": "62490",
+    "source_player_id": "62490",
+    "team_id": "777"
+  },
+  {
+    "age": 20,
+    "display_name": "Yusuf Ak\u00e7i\u00e7ek",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "number": 24,
+    "photo": "https://media.api-sports.io/football/players/412703.png",
+    "player_id": "412703",
+    "position": "DEF",
+    "source_api_football_id": "412703",
+    "source_player_id": "412703",
+    "team_id": "777"
+  },
+  {
+    "age": 31,
+    "display_name": "K. Ayhan",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "number": 22,
+    "photo": "https://media.api-sports.io/football/players/25448.png",
+    "player_id": "25448",
+    "position": "DEF",
+    "source_api_football_id": "25448",
+    "source_player_id": "25448",
+    "team_id": "777"
+  },
+  {
+    "age": 31,
+    "display_name": "A. Bardakc\u0131",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "number": 14,
+    "photo": "https://media.api-sports.io/football/players/61837.png",
+    "player_id": "61837",
+    "position": "DEF",
+    "source_api_football_id": "61837",
+    "source_player_id": "61837",
+    "team_id": "777"
+  },
+  {
+    "age": 28,
+    "display_name": "Z. \u00c7elik",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "number": 2,
+    "photo": "https://media.api-sports.io/football/players/22222.png",
+    "player_id": "22222",
+    "position": "DEF",
+    "source_api_football_id": "22222",
+    "source_player_id": "22222",
+    "team_id": "777"
+  },
+  {
+    "age": 27,
+    "display_name": "M. Demiral",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "number": 3,
+    "photo": "https://media.api-sports.io/football/players/30521.png",
+    "player_id": "30521",
+    "position": "DEF",
+    "source_api_football_id": "30521",
+    "source_player_id": "30521",
+    "team_id": "777"
+  },
+  {
+    "age": 25,
+    "display_name": "E. Elmal\u0131",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "number": 13,
+    "photo": "https://media.api-sports.io/football/players/50057.png",
+    "player_id": "50057",
+    "position": "DEF",
+    "source_api_football_id": "50057",
+    "source_player_id": "50057",
+    "team_id": "777"
+  },
+  {
+    "age": 25,
+    "display_name": "O. Kabak",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "number": 15,
+    "photo": "https://media.api-sports.io/football/players/26300.png",
+    "player_id": "26300",
+    "position": "DEF",
+    "source_api_football_id": "26300",
+    "source_player_id": "26300",
+    "team_id": "777"
+  },
+  {
+    "age": 26,
+    "display_name": "F. Kad\u0131o\u011flu",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "number": 20,
+    "photo": "https://media.api-sports.io/football/players/1361.png",
+    "player_id": "1361",
+    "position": "DEF",
+    "source_api_football_id": "1361",
+    "source_player_id": "1361",
+    "team_id": "777"
+  },
+  {
+    "age": 23,
+    "display_name": "A. Kaplan",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "number": 13,
+    "photo": "https://media.api-sports.io/football/players/278159.png",
+    "player_id": "278159",
+    "position": "DEF",
+    "source_api_football_id": "278159",
+    "source_player_id": "278159",
+    "team_id": "777"
+  },
+  {
+    "age": 26,
+    "display_name": "M. M\u00fcld\u00fcr",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "number": 18,
+    "photo": "https://media.api-sports.io/football/players/1719.png",
+    "player_id": "1719",
+    "position": "DEF",
+    "source_api_football_id": "1719",
+    "source_player_id": "1719",
+    "team_id": "777"
+  },
+  {
+    "age": 29,
+    "display_name": "\u00c7. S\u00f6y\u00fcnc\u00fc",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "number": 4,
+    "photo": "https://media.api-sports.io/football/players/18776.png",
+    "player_id": "18776",
+    "position": "DEF",
+    "source_api_football_id": "18776",
+    "source_player_id": "18776",
+    "team_id": "777"
+  },
+  {
+    "age": 25,
+    "display_name": "O. Ayd\u0131n",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "number": 20,
+    "photo": "https://media.api-sports.io/football/players/134590.png",
+    "player_id": "134590",
+    "position": "MID",
+    "source_api_football_id": "134590",
+    "source_player_id": "134590",
+    "team_id": "777"
+  },
+  {
+    "age": 31,
+    "display_name": "H. \u00c7alhano\u011flu",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "number": 10,
+    "photo": "https://media.api-sports.io/football/players/1640.png",
+    "player_id": "1640",
+    "position": "MID",
+    "source_api_football_id": "1640",
+    "source_player_id": "1640",
+    "team_id": "777"
+  },
+  {
+    "age": 20,
+    "display_name": "A. G\u00fcler",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "number": 8,
+    "photo": "https://media.api-sports.io/football/players/291964.png",
+    "player_id": "291964",
+    "position": "MID",
+    "source_api_football_id": "291964",
+    "source_player_id": "291964",
+    "team_id": "777"
+  },
+  {
+    "age": 29,
+    "display_name": "A. Karazor",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "number": 19,
+    "photo": "https://media.api-sports.io/football/players/24963.png",
+    "player_id": "24963",
+    "position": "MID",
+    "source_api_football_id": "24963",
+    "source_player_id": "24963",
+    "team_id": "777"
+  },
+  {
+    "age": 25,
+    "display_name": "O. Ko\u0308k\u00e7u\u0308",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "number": 6,
+    "photo": "https://media.api-sports.io/football/players/37155.png",
+    "player_id": "37155",
+    "position": "MID",
+    "source_api_football_id": "37155",
+    "source_player_id": "37155",
+    "team_id": "777"
+  },
+  {
+    "age": 27,
+    "display_name": "S. \u00d6zcan",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "number": 5,
+    "photo": "https://media.api-sports.io/football/players/24807.png",
+    "player_id": "24807",
+    "position": "MID",
+    "source_api_football_id": "24807",
+    "source_player_id": "24807",
+    "team_id": "777"
+  },
+  {
+    "age": 21,
+    "display_name": "E. T\u0131knaz",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "number": 25,
+    "photo": "https://media.api-sports.io/football/players/336570.png",
+    "player_id": "336570",
+    "position": "MID",
+    "source_api_football_id": "336570",
+    "source_player_id": "336570",
+    "team_id": "777"
+  },
+  {
+    "age": 20,
+    "display_name": "C. Uzun",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "number": 11,
+    "photo": "https://media.api-sports.io/football/players/339887.png",
+    "player_id": "339887",
+    "position": "MID",
+    "source_api_football_id": "339887",
+    "source_player_id": "339887",
+    "team_id": "777"
+  },
+  {
+    "age": 27,
+    "display_name": "\u0130. Y\u00fcksek",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "number": 16,
+    "photo": "https://media.api-sports.io/football/players/214463.png",
+    "player_id": "214463",
+    "position": "MID",
+    "source_api_football_id": "214463",
+    "source_player_id": "214463",
+    "team_id": "777"
+  },
+  {
+    "age": 25,
+    "display_name": "Y. Akg\u00fcn",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "number": 19,
+    "photo": "https://media.api-sports.io/football/players/454.png",
+    "player_id": "454",
+    "position": "MID",
+    "source_api_football_id": "454",
+    "source_player_id": "454",
+    "team_id": "777"
+  },
+  {
+    "age": 27,
+    "display_name": "K. Akt\u00fcrko\u011flu",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "number": 7,
+    "photo": "https://media.api-sports.io/football/players/142959.png",
+    "player_id": "142959",
+    "position": "FWD",
+    "source_api_football_id": "142959",
+    "source_player_id": "142959",
+    "team_id": "777"
+  },
+  {
+    "age": 21,
+    "display_name": "D. G\u00fcl",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "number": 9,
+    "photo": "https://media.api-sports.io/football/players/388570.png",
+    "player_id": "388570",
+    "position": "FWD",
+    "source_api_football_id": "388570",
+    "source_player_id": "388570",
+    "team_id": "777"
+  },
+  {
+    "age": 30,
+    "display_name": "\u0130. Kahveci",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "number": 17,
+    "photo": "https://media.api-sports.io/football/players/49857.png",
+    "player_id": "49857",
+    "position": "MID",
+    "source_api_football_id": "49857",
+    "source_player_id": "49857",
+    "team_id": "777"
+  },
+  {
+    "age": 27,
+    "display_name": "Y. Sar\u0131",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "number": 7,
+    "photo": "https://media.api-sports.io/football/players/1921.png",
+    "player_id": "1921",
+    "position": "FWD",
+    "source_api_football_id": "1921",
+    "source_player_id": "1921",
+    "team_id": "777"
+  },
+  {
+    "age": 23,
+    "display_name": "A. \u015eim\u015fir",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "number": 26,
+    "photo": "https://media.api-sports.io/football/players/161790.png",
+    "player_id": "161790",
+    "position": "MID",
+    "source_api_football_id": "161790",
+    "source_player_id": "161790",
+    "team_id": "777"
+  },
+  {
+    "age": 20,
+    "display_name": "K. Y\u0131ld\u0131z",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "number": 11,
+    "photo": "https://media.api-sports.io/football/players/339883.png",
+    "player_id": "339883",
+    "position": "FWD",
+    "source_api_football_id": "339883",
+    "source_player_id": "339883",
+    "team_id": "777"
+  },
+  {
+    "age": 25,
+    "display_name": "B. Y\u0131lmaz",
+    "eligible_matchday_ids": [
+      "2026-06-13"
+    ],
+    "number": 21,
+    "photo": "https://media.api-sports.io/football/players/63274.png",
+    "player_id": "63274",
+    "position": "FWD",
+    "source_api_football_id": "63274",
+    "source_player_id": "63274",
+    "team_id": "777"
+  }
+]

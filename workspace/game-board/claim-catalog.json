@@ -1,0 +1,128 @@
+[
+  {
+    "claim_id": "match_2plus_goals",
+    "required_fields": [
+      "match_id"
+    ],
+    "risk_type": "Green"
+  },
+  {
+    "claim_id": "no_goal_first_10",
+    "required_fields": [
+      "match_id"
+    ],
+    "risk_type": "Green"
+  },
+  {
+    "claim_id": "goal_before_halftime",
+    "required_fields": [
+      "match_id"
+    ],
+    "risk_type": "Green"
+  },
+  {
+    "claim_id": "match_2plus_cards",
+    "required_fields": [
+      "match_id"
+    ],
+    "risk_type": "Green"
+  },
+  {
+    "claim_id": "no_goal_stoppage_time",
+    "required_fields": [
+      "match_id"
+    ],
+    "risk_type": "Green"
+  },
+  {
+    "claim_id": "both_teams_score",
+    "required_fields": [
+      "match_id"
+    ],
+    "risk_type": "Yellow"
+  },
+  {
+    "claim_id": "match_over_2_5_goals",
+    "required_fields": [
+      "match_id"
+    ],
+    "risk_type": "Yellow"
+  },
+  {
+    "claim_id": "team_scores_first",
+    "required_fields": [
+      "match_id",
+      "team_id"
+    ],
+    "risk_type": "Yellow"
+  },
+  {
+    "claim_id": "player_scores",
+    "required_fields": [
+      "match_id",
+      "player_id"
+    ],
+    "risk_type": "Yellow"
+  },
+  {
+    "claim_id": "match_2plus_yellow_cards",
+    "required_fields": [
+      "match_id"
+    ],
+    "risk_type": "Yellow"
+  },
+  {
+    "claim_id": "exact_score",
+    "required_fields": [
+      "match_id",
+      "home_score",
+      "away_score"
+    ],
+    "risk_type": "Red"
+  },
+  {
+    "claim_id": "player_scores_2plus",
+    "required_fields": [
+      "match_id",
+      "player_id"
+    ],
+    "risk_type": "Red"
+  },
+  {
+    "claim_id": "team_wins_by_3plus",
+    "required_fields": [
+      "match_id",
+      "team_id"
+    ],
+    "risk_type": "Red"
+  },
+  {
+    "claim_id": "team_comeback_win",
+    "required_fields": [
+      "match_id",
+      "team_id"
+    ],
+    "risk_type": "Red"
+  },
+  {
+    "claim_id": "red_card_shown",
+    "required_fields": [
+      "match_id"
+    ],
+    "risk_type": "Red"
+  },
+  {
+    "claim_id": "match_goes_to_extra_time",
+    "required_fields": [
+      "match_id"
+    ],
+    "risk_type": "Red"
+  },
+  {
+    "claim_id": "match_goes_to_penalties",
+    "required_fields": [
+      "match_id"
+    ],
+    "risk_type": "Red"
+  }
+]

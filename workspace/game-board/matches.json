@@ -1,0 +1,62 @@
+[
+  {
+    "away_team_id": "15",
+    "group": null,
+    "home_team_id": "1569",
+    "kickoff_at": "2026-06-13T19:00:00+00:00",
+    "match_id": "1489373",
+    "phase": "league",
+    "round": "Group Stage - 1",
+    "source_api_football_id": "1489373",
+    "source_fixture_id": "1489373",
+    "venue": {
+      "city": null,
+      "name": null
+    }
+  },
+  {
+    "away_team_id": "31",
+    "group": null,
+    "home_team_id": "6",
+    "kickoff_at": "2026-06-13T22:00:00+00:00",
+    "match_id": "1489371",
+    "phase": "league",
+    "round": "Group Stage - 1",
+    "source_api_football_id": "1489371",
+    "source_fixture_id": "1489371",
+    "venue": {
+      "city": null,
+      "name": "MetLife Stadium"
+    }
+  },
+  {
+    "away_team_id": "1108",
+    "group": null,
+    "home_team_id": "2386",
+    "kickoff_at": "2026-06-14T01:00:00+00:00",
+    "match_id": "1489372",
+    "phase": "league",
+    "round": "Group Stage - 1",
+    "source_api_football_id": "1489372",
+    "source_fixture_id": "1489372",
+    "venue": {
+      "city": null,
+      "name": "Gillette Stadium"
+    }
+  },
+  {
+    "away_team_id": "777",
+    "group": null,
+    "home_team_id": "20",
+    "kickoff_at": "2026-06-14T04:00:00+00:00",
+    "match_id": "1539001",
+    "phase": "league",
+    "round": "Group Stage - 1",
+    "source_api_football_id": "1539001",
+    "source_fixture_id": "1539001",
+    "venue": {
+      "city": null,
+      "name": "BC Place"
+    }
+  }
+]

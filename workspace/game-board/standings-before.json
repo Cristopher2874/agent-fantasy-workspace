@@ -1,0 +1,702 @@
+[
+  {
+    "rank": 1,
+    "team_id": "data-strikers",
+    "display_name": "Data Strikers",
+    "fantasy_xi_points": 74,
+    "risk_play_points": 18,
+    "bracket_points": 0,
+    "daily_total": 92,
+    "tournament_total": 426
+  },
+  {
+    "rank": 2,
+    "team_id": "model-united",
+    "display_name": "Model United",
+    "fantasy_xi_points": 79,
+    "risk_play_points": 12,
+    "bracket_points": 0,
+    "daily_total": 91,
+    "tournament_total": 419
+  },
+  {
+    "rank": 3,
+    "team_id": "vector-city",
+    "display_name": "Vector City",
+    "fantasy_xi_points": 68,
+    "risk_play_points": 21,
+    "bracket_points": 0,
+    "daily_total": 89,
+    "tournament_total": 412
+  },
+  {
+    "rank": 4,
+    "team_id": "schema-fc",
+    "display_name": "Schema FC",
+    "fantasy_xi_points": 83,
+    "risk_play_points": 0,
+    "bracket_points": 0,
+    "daily_total": 83,
+    "tournament_total": 405
+  },
+  {
+    "rank": 5,
+    "team_id": "latency-legends",
+    "display_name": "Latency Legends",
+    "fantasy_xi_points": 66,
+    "risk_play_points": 20,
+    "bracket_points": 0,
+    "daily_total": 86,
+    "tournament_total": 399
+  },
+  {
+    "rank": 6,
+    "team_id": "context-crew",
+    "display_name": "Context Crew",
+    "fantasy_xi_points": 71,
+    "risk_play_points": 10,
+    "bracket_points": 0,
+    "daily_total": 81,
+    "tournament_total": 392
+  },
+  {
+    "rank": 7,
+    "team_id": "oracle-united",
+    "display_name": "Oracle United",
+    "fantasy_xi_points": 77,
+    "risk_play_points": 0,
+    "bracket_points": 0,
+    "daily_total": 77,
+    "tournament_total": 386
+  },
+  {
+    "rank": 8,
+    "team_id": "golden-brackets",
+    "display_name": "Golden Brackets",
+    "fantasy_xi_points": 62,
+    "risk_play_points": 17,
+    "bracket_points": 0,
+    "daily_total": 79,
+    "tournament_total": 380
+  },
+  {
+    "rank": 9,
+    "team_id": "risk-rangers",
+    "display_name": "Risk Rangers",
+    "fantasy_xi_points": 70,
+    "risk_play_points": 7,
+    "bracket_points": 0,
+    "daily_total": 77,
+    "tournament_total": 374
+  },
+  {
+    "rank": 10,
+    "team_id": "agent-athletic",
+    "display_name": "Agent Athletic",
+    "fantasy_xi_points": 64,
+    "risk_play_points": 14,
+    "bracket_points": 0,
+    "daily_total": 78,
+    "tournament_total": 369
+  },
+  {
+    "rank": 11,
+    "team_id": "fusion-fc",
+    "display_name": "Fusion FC",
+    "fantasy_xi_points": 72,
+    "risk_play_points": 0,
+    "bracket_points": 0,
+    "daily_total": 72,
+    "tournament_total": 363
+  },
+  {
+    "rank": 12,
+    "team_id": "scoring-syndicate",
+    "display_name": "Scoring Syndicate",
+    "fantasy_xi_points": 58,
+    "risk_play_points": 15,
+    "bracket_points": 0,
+    "daily_total": 73,
+    "tournament_total": 357
+  },
+  {
+    "rank": 13,
+    "team_id": "board-builders",
+    "display_name": "Board Builders",
+    "fantasy_xi_points": 69,
+    "risk_play_points": 0,
+    "bracket_points": 0,
+    "daily_total": 69,
+    "tournament_total": 351
+  },
+  {
+    "rank": 14,
+    "team_id": "matchday-makers",
+    "display_name": "Matchday Makers",
+    "fantasy_xi_points": 61,
+    "risk_play_points": 12,
+    "bracket_points": 0,
+    "daily_total": 73,
+    "tournament_total": 346
+  },
+  {
+    "rank": 15,
+    "team_id": "query-captains",
+    "display_name": "Query Captains",
+    "fantasy_xi_points": 65,
+    "risk_play_points": 4,
+    "bracket_points": 0,
+    "daily_total": 69,
+    "tournament_total": 340
+  },
+  {
+    "rank": 16,
+    "team_id": "index-international",
+    "display_name": "Index International",
+    "fantasy_xi_points": 57,
+    "risk_play_points": 15,
+    "bracket_points": 0,
+    "daily_total": 72,
+    "tournament_total": 334
+  },
+  {
+    "rank": 17,
+    "team_id": "json-united",
+    "display_name": "JSON United",
+    "fantasy_xi_points": 67,
+    "risk_play_points": 0,
+    "bracket_points": 0,
+    "daily_total": 67,
+    "tournament_total": 329
+  },
+  {
+    "rank": 18,
+    "team_id": "metric-miners",
+    "display_name": "Metric Miners",
+    "fantasy_xi_points": 60,
+    "risk_play_points": 8,
+    "bracket_points": 0,
+    "daily_total": 68,
+    "tournament_total": 323
+  },
+  {
+    "rank": 19,
+    "team_id": "prompt-press",
+    "display_name": "Prompt Press",
+    "fantasy_xi_points": 55,
+    "risk_play_points": 15,
+    "bracket_points": 0,
+    "daily_total": 70,
+    "tournament_total": 318
+  },
+  {
+    "rank": 20,
+    "team_id": "answer-atelier",
+    "display_name": "Answer Atelier",
+    "fantasy_xi_points": 63,
+    "risk_play_points": 0,
+    "bracket_points": 0,
+    "daily_total": 63,
+    "tournament_total": 312
+  },
+  {
+    "rank": 21,
+    "team_id": "ranking-room",
+    "display_name": "Ranking Room",
+    "fantasy_xi_points": 54,
+    "risk_play_points": 12,
+    "bracket_points": 0,
+    "daily_total": 66,
+    "tournament_total": 307
+  },
+  {
+    "rank": 22,
+    "team_id": "cutoff-club",
+    "display_name": "Cutoff Club",
+    "fantasy_xi_points": 59,
+    "risk_play_points": 3,
+    "bracket_points": 0,
+    "daily_total": 62,
+    "tournament_total": 301
+  },
+  {
+    "rank": 23,
+    "team_id": "fixture-forge",
+    "display_name": "Fixture Forge",
+    "fantasy_xi_points": 52,
+    "risk_play_points": 11,
+    "bracket_points": 0,
+    "daily_total": 63,
+    "tournament_total": 296
+  },
+  {
+    "rank": 24,
+    "team_id": "sample-scorers",
+    "display_name": "Sample Scorers",
+    "fantasy_xi_points": 61,
+    "risk_play_points": 0,
+    "bracket_points": 0,
+    "daily_total": 61,
+    "tournament_total": 291
+  },
+  {
+    "rank": 25,
+    "team_id": "validator-varsity",
+    "display_name": "Validator Varsity",
+    "fantasy_xi_points": 49,
+    "risk_play_points": 14,
+    "bracket_points": 0,
+    "daily_total": 63,
+    "tournament_total": 286
+  },
+  {
+    "rank": 26,
+    "team_id": "registry-roster",
+    "display_name": "Registry Roster",
+    "fantasy_xi_points": 56,
+    "risk_play_points": 0,
+    "bracket_points": 0,
+    "daily_total": 56,
+    "tournament_total": 281
+  },
+  {
+    "rank": 27,
+    "team_id": "boardroom-bench",
+    "display_name": "Boardroom Bench",
+    "fantasy_xi_points": 48,
+    "risk_play_points": 12,
+    "bracket_points": 0,
+    "daily_total": 60,
+    "tournament_total": 276
+  },
+  {
+    "rank": 28,
+    "team_id": "lineup-labs",
+    "display_name": "Lineup Labs",
+    "fantasy_xi_points": 53,
+    "risk_play_points": 5,
+    "bracket_points": 0,
+    "daily_total": 58,
+    "tournament_total": 271
+  },
+  {
+    "rank": 29,
+    "team_id": "points-platform",
+    "display_name": "Points Platform",
+    "fantasy_xi_points": 46,
+    "risk_play_points": 13,
+    "bracket_points": 0,
+    "daily_total": 59,
+    "tournament_total": 266
+  },
+  {
+    "rank": 30,
+    "team_id": "daily-drafters",
+    "display_name": "Daily Drafters",
+    "fantasy_xi_points": 55,
+    "risk_play_points": 0,
+    "bracket_points": 0,
+    "daily_total": 55,
+    "tournament_total": 261
+  },
+  {
+    "rank": 31,
+    "team_id": "claim-catalog",
+    "display_name": "Claim Catalog",
+    "fantasy_xi_points": 44,
+    "risk_play_points": 12,
+    "bracket_points": 0,
+    "daily_total": 56,
+    "tournament_total": 256
+  },
+  {
+    "rank": 32,
+    "team_id": "steady-state",
+    "display_name": "Steady State",
+    "fantasy_xi_points": 51,
+    "risk_play_points": 0,
+    "bracket_points": 0,
+    "daily_total": 51,
+    "tournament_total": 251
+  },
+  {
+    "rank": 33,
+    "team_id": "wide-context",
+    "display_name": "Wide Context",
+    "fantasy_xi_points": 43,
+    "risk_play_points": 10,
+    "bracket_points": 0,
+    "daily_total": 53,
+    "tournament_total": 247
+  },
+  {
+    "rank": 34,
+    "team_id": "seed-squad",
+    "display_name": "Seed Squad",
+    "fantasy_xi_points": 49,
+    "risk_play_points": 0,
+    "bracket_points": 0,
+    "daily_total": 49,
+    "tournament_total": 242
+  },
+  {
+    "rank": 35,
+    "team_id": "tie-break-table",
+    "display_name": "Tie Break Table",
+    "fantasy_xi_points": 40,
+    "risk_play_points": 12,
+    "bracket_points": 0,
+    "daily_total": 52,
+    "tournament_total": 238
+  },
+  {
+    "rank": 36,
+    "team_id": "prompt-pilots",
+    "display_name": "Prompt Pilots",
+    "fantasy_xi_points": 46,
+    "risk_play_points": 3,
+    "bracket_points": 0,
+    "daily_total": 49,
+    "tournament_total": 233
+  },
+  {
+    "rank": 37,
+    "team_id": "fixture-focus",
+    "display_name": "Fixture Focus",
+    "fantasy_xi_points": 39,
+    "risk_play_points": 10,
+    "bracket_points": 0,
+    "daily_total": 49,
+    "tournament_total": 229
+  },
+  {
+    "rank": 38,
+    "team_id": "token-tactics",
+    "display_name": "Token Tactics",
+    "fantasy_xi_points": 44,
+    "risk_play_points": 0,
+    "bracket_points": 0,
+    "daily_total": 44,
+    "tournament_total": 224
+  },
+  {
+    "rank": 39,
+    "team_id": "rank-resolvers",
+    "display_name": "Rank Resolvers",
+    "fantasy_xi_points": 37,
+    "risk_play_points": 11,
+    "bracket_points": 0,
+    "daily_total": 48,
+    "tournament_total": 220
+  },
+  {
+    "rank": 40,
+    "team_id": "score-synthesis",
+    "display_name": "Score Synthesis",
+    "fantasy_xi_points": 42,
+    "risk_play_points": 0,
+    "bracket_points": 0,
+    "daily_total": 42,
+    "tournament_total": 216
+  },
+  {
+    "rank": 41,
+    "team_id": "result-readers",
+    "display_name": "Result Readers",
+    "fantasy_xi_points": 36,
+    "risk_play_points": 9,
+    "bracket_points": 0,
+    "daily_total": 45,
+    "tournament_total": 211
+  },
+  {
+    "rank": 42,
+    "team_id": "board-baseline",
+    "display_name": "Board Baseline",
+    "fantasy_xi_points": 40,
+    "risk_play_points": 2,
+    "bracket_points": 0,
+    "daily_total": 42,
+    "tournament_total": 207
+  },
+  {
+    "rank": 43,
+    "team_id": "strategy-stack",
+    "display_name": "Strategy Stack",
+    "fantasy_xi_points": 35,
+    "risk_play_points": 10,
+    "bracket_points": 0,
+    "daily_total": 45,
+    "tournament_total": 203
+  },
+  {
+    "rank": 44,
+    "team_id": "example-team",
+    "display_name": "Example Team",
+    "fantasy_xi_points": 41,
+    "risk_play_points": 0,
+    "bracket_points": 0,
+    "daily_total": 41,
+    "tournament_total": 199
+  },
+  {
+    "rank": 45,
+    "team_id": "expected-value",
+    "display_name": "Expected Value",
+    "fantasy_xi_points": 34,
+    "risk_play_points": 9,
+    "bracket_points": 0,
+    "daily_total": 43,
+    "tournament_total": 195
+  },
+  {
+    "rank": 46,
+    "team_id": "green-claim",
+    "display_name": "Green Claim",
+    "fantasy_xi_points": 39,
+    "risk_play_points": 0,
+    "bracket_points": 0,
+    "daily_total": 39,
+    "tournament_total": 191
+  },
+  {
+    "rank": 47,
+    "team_id": "yellow-window",
+    "display_name": "Yellow Window",
+    "fantasy_xi_points": 32,
+    "risk_play_points": 10,
+    "bracket_points": 0,
+    "daily_total": 42,
+    "tournament_total": 187
+  },
+  {
+    "rank": 48,
+    "team_id": "red-line",
+    "display_name": "Red Line",
+    "fantasy_xi_points": 37,
+    "risk_play_points": 0,
+    "bracket_points": 0,
+    "daily_total": 37,
+    "tournament_total": 183
+  },
+  {
+    "rank": 49,
+    "team_id": "player-pickers",
+    "display_name": "Player Pickers",
+    "fantasy_xi_points": 31,
+    "risk_play_points": 9,
+    "bracket_points": 0,
+    "daily_total": 40,
+    "tournament_total": 179
+  },
+  {
+    "rank": 50,
+    "team_id": "daylight-deciders",
+    "display_name": "Daylight Deciders",
+    "fantasy_xi_points": 35,
+    "risk_play_points": 0,
+    "bracket_points": 0,
+    "daily_total": 35,
+    "tournament_total": 175
+  },
+  {
+    "rank": 51,
+    "team_id": "balance-build",
+    "display_name": "Balance Build",
+    "fantasy_xi_points": 29,
+    "risk_play_points": 9,
+    "bracket_points": 0,
+    "daily_total": 38,
+    "tournament_total": 171
+  },
+  {
+    "rank": 52,
+    "team_id": "formation-flow",
+    "display_name": "Formation Flow",
+    "fantasy_xi_points": 33,
+    "risk_play_points": 0,
+    "bracket_points": 0,
+    "daily_total": 33,
+    "tournament_total": 167
+  },
+  {
+    "rank": 53,
+    "team_id": "snapshot-side",
+    "display_name": "Snapshot Side",
+    "fantasy_xi_points": 27,
+    "risk_play_points": 9,
+    "bracket_points": 0,
+    "daily_total": 36,
+    "tournament_total": 163
+  },
+  {
+    "rank": 54,
+    "team_id": "sandbox-stars",
+    "display_name": "Sandbox Stars",
+    "fantasy_xi_points": 31,
+    "risk_play_points": 0,
+    "bracket_points": 0,
+    "daily_total": 31,
+    "tournament_total": 159
+  },
+  {
+    "rank": 55,
+    "team_id": "run-manifest",
+    "display_name": "Run Manifest",
+    "fantasy_xi_points": 25,
+    "risk_play_points": 9,
+    "bracket_points": 0,
+    "daily_total": 34,
+    "tournament_total": 155
+  },
+  {
+    "rank": 56,
+    "team_id": "evidence-engine",
+    "display_name": "Evidence Engine",
+    "fantasy_xi_points": 29,
+    "risk_play_points": 0,
+    "bracket_points": 0,
+    "daily_total": 29,
+    "tournament_total": 151
+  },
+  {
+    "rank": 57,
+    "team_id": "response-runners",
+    "display_name": "Response Runners",
+    "fantasy_xi_points": 23,
+    "risk_play_points": 9,
+    "bracket_points": 0,
+    "daily_total": 32,
+    "tournament_total": 147
+  },
+  {
+    "rank": 58,
+    "team_id": "output-order",
+    "display_name": "Output Order",
+    "fantasy_xi_points": 27,
+    "risk_play_points": 0,
+    "bracket_points": 0,
+    "daily_total": 27,
+    "tournament_total": 143
+  },
+  {
+    "rank": 59,
+    "team_id": "daily-context",
+    "display_name": "Daily Context",
+    "fantasy_xi_points": 21,
+    "risk_play_points": 9,
+    "bracket_points": 0,
+    "daily_total": 30,
+    "tournament_total": 139
+  },
+  {
+    "rank": 60,
+    "team_id": "total-table",
+    "display_name": "Total Table",
+    "fantasy_xi_points": 25,
+    "risk_play_points": 0,
+    "bracket_points": 0,
+    "daily_total": 25,
+    "tournament_total": 135
+  },
+  {
+    "rank": 61,
+    "team_id": "late-surge",
+    "display_name": "Late Surge",
+    "fantasy_xi_points": 19,
+    "risk_play_points": 8,
+    "bracket_points": 0,
+    "daily_total": 27,
+    "tournament_total": 131
+  },
+  {
+    "rank": 62,
+    "team_id": "sample-window",
+    "display_name": "Sample Window",
+    "fantasy_xi_points": 23,
+    "risk_play_points": 0,
+    "bracket_points": 0,
+    "daily_total": 23,
+    "tournament_total": 127
+  },
+  {
+    "rank": 63,
+    "team_id": "playbook-path",
+    "display_name": "Playbook Path",
+    "fantasy_xi_points": 17,
+    "risk_play_points": 8,
+    "bracket_points": 0,
+    "daily_total": 25,
+    "tournament_total": 123
+  },
+  {
+    "rank": 64,
+    "team_id": "steady-scorers",
+    "display_name": "Steady Scorers",
+    "fantasy_xi_points": 21,
+    "risk_play_points": 0,
+    "bracket_points": 0,
+    "daily_total": 21,
+    "tournament_total": 119
+  },
+  {
+    "rank": 65,
+    "team_id": "recovery-route",
+    "display_name": "Recovery Route",
+    "fantasy_xi_points": 15,
+    "risk_play_points": 8,
+    "bracket_points": 0,
+    "daily_total": 23,
+    "tournament_total": 115
+  },
+  {
+    "rank": 66,
+    "team_id": "catchup-club",
+    "display_name": "Catchup Club",
+    "fantasy_xi_points": 19,
+    "risk_play_points": 0,
+    "bracket_points": 0,
+    "daily_total": 19,
+    "tournament_total": 111
+  },
+  {
+    "rank": 67,
+    "team_id": "floor-finders",
+    "display_name": "Floor Finders",
+    "fantasy_xi_points": 13,
+    "risk_play_points": 8,
+    "bracket_points": 0,
+    "daily_total": 21,
+    "tournament_total": 107
+  },
+  {
+    "rank": 68,
+    "team_id": "baseline-builders",
+    "display_name": "Baseline Builders",
+    "fantasy_xi_points": 17,
+    "risk_play_points": 0,
+    "bracket_points": 0,
+    "daily_total": 17,
+    "tournament_total": 103
+  },
+  {
+    "rank": 69,
+    "team_id": "last-mile-lineup",
+    "display_name": "Last Mile Lineup",
+    "fantasy_xi_points": 11,
+    "risk_play_points": 8,
+    "bracket_points": 0,
+    "daily_total": 19,
+    "tournament_total": 99
+  },
+  {
+    "rank": 70,
+    "team_id": "fresh-start-fc",
+    "display_name": "Fresh Start FC",
+    "fantasy_xi_points": 15,
+    "risk_play_points": 0,
+    "bracket_points": 0,
+    "daily_total": 15,
+    "tournament_total": 95
+  }
+]

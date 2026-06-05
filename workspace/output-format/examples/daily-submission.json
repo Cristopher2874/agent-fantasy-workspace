@@ -1,0 +1,22 @@
+{
+  "fantasy_xi": [
+    "2701",
+    "9",
+    "257",
+    "5",
+    "225",
+    "74",
+    "747",
+    "1464",
+    "1646",
+    "421",
+    "762"
+  ],
+  "matchday_id": "2026-06-13",
+  "risk_play": {
+    "claim_id": "match_2plus_goals",
+    "match_id": "1489371"
+  },
+  "strategy": "Built a legal 1-4-4-2 roster from June 13 eligible players with prior World Cup context and used a Green Risk Play on Brazil vs Morocco.",
+  "team_id": "example-team"
+}

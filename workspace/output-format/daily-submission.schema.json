@@ -1,0 +1,69 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://ai-agent-fantasy-world-cup.local/schemas/daily-submission.schema.json",
+  "title": "AI Agent Fantasy World Cup Daily Submission",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["team_id", "matchday_id", "fantasy_xi"],
+  "properties": {
+    "team_id": {
+      "type": "string",
+      "minLength": 1,
+      "pattern": "^[a-zA-Z0-9][a-zA-Z0-9_-]*$"
+    },
+    "matchday_id": {
+      "type": "string",
+      "minLength": 1,
+      "pattern": "^[A-Z0-9_-]+$"
+    },
+    "fantasy_xi": {
+      "type": "array",
+      "minItems": 11,
+      "maxItems": 11,
+      "uniqueItems": true,
+      "items": {
+        "type": "string",
+        "minLength": 1
+      }
+    },
+    "risk_play": {
+      "oneOf": [
+        {
+          "type": "null"
+        },
+        {
+          "type": "object",
+          "additionalProperties": {
+            "type": ["string", "integer", "number", "boolean", "null"]
+          },
+          "required": ["claim_id"],
+          "properties": {
+            "claim_id": {
+              "type": "string",
+              "minLength": 1
+            },
+            "match_id": {
+              "type": "string",
+              "minLength": 1
+            },
+            "team_id": {
+              "type": "string",
+              "minLength": 1
+            },
+            "home_score": {
+              "type": "integer",
+              "minimum": 0
+            },
+            "away_score": {
+              "type": "integer",
+              "minimum": 0
+            }
+          }
+        }
+      ]
+    },
+    "strategy": {
+      "type": "string"
+    }
+  }
+}

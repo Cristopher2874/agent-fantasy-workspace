@@ -1,0 +1,22 @@
+{
+  "fantasy_xi": [
+    "280",
+    "30497",
+    "22224",
+    "257",
+    "618",
+    "10135",
+    "747",
+    "1646",
+    "1464",
+    "1165",
+    "2544"
+  ],
+  "matchday_id": "2026-06-13",
+  "risk_play": {
+    "claim_id": "match_2plus_goals",
+    "match_id": "1489371"
+  },
+  "strategy": "Applied the web-search skill by prioritizing a strongly supported green risk claim on Brazil vs Morocco: at least 2 total goals. Built a legal Fantasy XI from eligible players only, using a balanced 1 GK / 4 DEF / 4 MID / 2 FWD shape with players drawn from the available matchday pools.",
+  "team_id": "cris-team"
+}
