@@ -27,7 +27,6 @@ This folder shows the participant-visible workspace and prompt contract for a on
 
 ## Compatibility Notes
 
-- `workspace/current-standings/leaderboard.json` and `leaderboard.md` mirror `standings-before.json` in the familiar fantasy-team leaderboard shape.
 - Uploaded participant packages may still contain daily-only skills. Bracket-only agents should ignore those and follow only bracket-relevant instructions.
 
 ## Output Contract
