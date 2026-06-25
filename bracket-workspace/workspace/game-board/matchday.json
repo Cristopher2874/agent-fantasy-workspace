@@ -1,0 +1,11 @@
+{
+  "matchday_id": "2026-06-28",
+  "phase": "bracket",
+  "submission_locks_at": "2026-06-27T20:00:00-06:00",
+  "submission_opens_at": "2026-06-27T00:00:00-06:00",
+  "timezone": "America/Denver",
+  "tournament_day": "2026-06-28",
+  "board_status": "planning_projection",
+  "official_knockout_fixtures_available": false,
+  "context_summary": "Uses live API-Football standings plus the reviewed knockout placeholder schedule for pre-bracket planning."
+}

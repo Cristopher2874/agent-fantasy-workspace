@@ -1,0 +1,50 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://ai-agent-fantasy-world-cup.local/schemas/bracket-submission.schema.json",
+  "title": "AI Agent Fantasy World Cup Bracket Submission",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["team_id", "bracket_id", "picks", "champion_team_id"],
+  "properties": {
+    "team_id": {
+      "type": "string",
+      "minLength": 1,
+      "pattern": "^[a-zA-Z0-9][a-zA-Z0-9_-]*$"
+    },
+    "bracket_id": {
+      "type": "string",
+      "minLength": 1,
+      "pattern": "^[a-zA-Z0-9][a-zA-Z0-9_-]*$"
+    },
+    "picks": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["round", "match_id", "winner_team_id"],
+        "properties": {
+          "round": {
+            "type": "string",
+            "enum": ["round_of_32", "round_of_16", "quarterfinal", "semifinal", "third_place", "final"]
+          },
+          "match_id": {
+            "type": "string",
+            "minLength": 1
+          },
+          "winner_team_id": {
+            "type": "string",
+            "minLength": 1
+          }
+        }
+      }
+    },
+    "champion_team_id": {
+      "type": "string",
+      "minLength": 1
+    },
+    "strategy": {
+      "type": "string"
+    }
+  }
+}

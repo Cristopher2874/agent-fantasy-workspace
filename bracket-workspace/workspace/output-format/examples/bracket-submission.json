@@ -1,0 +1,163 @@
+{
+  "bracket_id": "knockout-2026",
+  "champion_team_id": "example-team",
+  "picks": [
+    {
+      "match_id": "20260073",
+      "round": "round_of_32",
+      "winner_team_id": "17"
+    },
+    {
+      "match_id": "20260076",
+      "round": "round_of_32",
+      "winner_team_id": "6"
+    },
+    {
+      "match_id": "20260074",
+      "round": "round_of_32",
+      "winner_team_id": "example-team"
+    },
+    {
+      "match_id": "20260075",
+      "round": "round_of_32",
+      "winner_team_id": "1118"
+    },
+    {
+      "match_id": "20260078",
+      "round": "round_of_32",
+      "winner_team_id": "1501"
+    },
+    {
+      "match_id": "20260077",
+      "round": "round_of_32",
+      "winner_team_id": "example-team"
+    },
+    {
+      "match_id": "20260079",
+      "round": "round_of_32",
+      "winner_team_id": "example-team"
+    },
+    {
+      "match_id": "20260080",
+      "round": "round_of_32",
+      "winner_team_id": "example-team"
+    },
+    {
+      "match_id": "20260082",
+      "round": "round_of_32",
+      "winner_team_id": "example-team"
+    },
+    {
+      "match_id": "20260081",
+      "round": "round_of_32",
+      "winner_team_id": "example-team"
+    },
+    {
+      "match_id": "20260084",
+      "round": "round_of_32",
+      "winner_team_id": "9"
+    },
+    {
+      "match_id": "20260083",
+      "round": "round_of_32",
+      "winner_team_id": "27"
+    },
+    {
+      "match_id": "20260085",
+      "round": "round_of_32",
+      "winner_team_id": "example-team"
+    },
+    {
+      "match_id": "20260088",
+      "round": "round_of_32",
+      "winner_team_id": "20"
+    },
+    {
+      "match_id": "20260086",
+      "round": "round_of_32",
+      "winner_team_id": "26"
+    },
+    {
+      "match_id": "20260087",
+      "round": "round_of_32",
+      "winner_team_id": "example-team"
+    },
+    {
+      "match_id": "20260090",
+      "round": "round_of_16",
+      "winner_team_id": "example-team"
+    },
+    {
+      "match_id": "20260089",
+      "round": "round_of_16",
+      "winner_team_id": "example-team"
+    },
+    {
+      "match_id": "20260091",
+      "round": "round_of_16",
+      "winner_team_id": "example-team"
+    },
+    {
+      "match_id": "20260092",
+      "round": "round_of_16",
+      "winner_team_id": "example-team"
+    },
+    {
+      "match_id": "20260093",
+      "round": "round_of_16",
+      "winner_team_id": "example-team"
+    },
+    {
+      "match_id": "20260094",
+      "round": "round_of_16",
+      "winner_team_id": "example-team"
+    },
+    {
+      "match_id": "20260095",
+      "round": "round_of_16",
+      "winner_team_id": "example-team"
+    },
+    {
+      "match_id": "20260096",
+      "round": "round_of_16",
+      "winner_team_id": "example-team"
+    },
+    {
+      "match_id": "20260097",
+      "round": "quarterfinal",
+      "winner_team_id": "example-team"
+    },
+    {
+      "match_id": "20260098",
+      "round": "quarterfinal",
+      "winner_team_id": "example-team"
+    },
+    {
+      "match_id": "20260099",
+      "round": "quarterfinal",
+      "winner_team_id": "example-team"
+    },
+    {
+      "match_id": "20260100",
+      "round": "quarterfinal",
+      "winner_team_id": "example-team"
+    },
+    {
+      "match_id": "20260101",
+      "round": "semifinal",
+      "winner_team_id": "example-team"
+    },
+    {
+      "match_id": "20260102",
+      "round": "semifinal",
+      "winner_team_id": "example-team"
+    },
+    {
+      "match_id": "20260104",
+      "round": "final",
+      "winner_team_id": "example-team"
+    }
+  ],
+  "strategy": "Optional bracket strategy.",
+  "team_id": "example-team"
+}

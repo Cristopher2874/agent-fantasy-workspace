@@ -1,0 +1,1025 @@
+{
+  "schema_version": "aafwc.bracket-board.v2",
+  "bracket_id": "knockout-2026",
+  "board_status": "planning_projection",
+  "official_knockout_participants_available": false,
+  "third_place_included": false,
+  "final_match_id": "20260104",
+  "round_points": {
+    "round_of_32": 5,
+    "round_of_16": 8,
+    "quarterfinal": 12,
+    "semifinal": 18,
+    "final": 30
+  },
+  "teams": [
+    {
+      "team_id": "770",
+      "display_name": "Czechia",
+      "group": "Group A",
+      "qualification_projection": "current_third_outside_cutline",
+      "projection_certainty": "provisional"
+    },
+    {
+      "team_id": "16",
+      "display_name": "Mexico",
+      "group": "Group A",
+      "qualification_projection": "current_top_two",
+      "projection_certainty": "provisional"
+    },
+    {
+      "team_id": "1531",
+      "display_name": "South Africa",
+      "group": "Group A",
+      "qualification_projection": "outside_round_of_32",
+      "projection_certainty": "provisional"
+    },
+    {
+      "team_id": "17",
+      "display_name": "South Korea",
+      "group": "Group A",
+      "qualification_projection": "current_top_two",
+      "projection_certainty": "provisional"
+    },
+    {
+      "team_id": "1113",
+      "display_name": "Bosnia & Herzegovina",
+      "group": "Group B",
+      "qualification_projection": "current_best_third",
+      "projection_certainty": "provisional"
+    },
+    {
+      "team_id": "5529",
+      "display_name": "Canada",
+      "group": "Group B",
+      "qualification_projection": "current_top_two",
+      "projection_certainty": "official"
+    },
+    {
+      "team_id": "1569",
+      "display_name": "Qatar",
+      "group": "Group B",
+      "qualification_projection": "outside_round_of_32",
+      "projection_certainty": "provisional"
+    },
+    {
+      "team_id": "15",
+      "display_name": "Switzerland",
+      "group": "Group B",
+      "qualification_projection": "current_top_two",
+      "projection_certainty": "official"
+    },
+    {
+      "team_id": "6",
+      "display_name": "Brazil",
+      "group": "Group C",
+      "qualification_projection": "current_top_two",
+      "projection_certainty": "provisional"
+    },
+    {
+      "team_id": "2386",
+      "display_name": "Haiti",
+      "group": "Group C",
+      "qualification_projection": "outside_round_of_32",
+      "projection_certainty": "provisional"
+    },
+    {
+      "team_id": "31",
+      "display_name": "Morocco",
+      "group": "Group C",
+      "qualification_projection": "current_top_two",
+      "projection_certainty": "provisional"
+    },
+    {
+      "team_id": "1108",
+      "display_name": "Scotland",
+      "group": "Group C",
+      "qualification_projection": "current_best_third",
+      "projection_certainty": "provisional"
+    },
+    {
+      "team_id": "20",
+      "display_name": "Australia",
+      "group": "Group D",
+      "qualification_projection": "current_top_two",
+      "projection_certainty": "provisional"
+    },
+    {
+      "team_id": "2380",
+      "display_name": "Paraguay",
+      "group": "Group D",
+      "qualification_projection": "current_best_third",
+      "projection_certainty": "provisional"
+    },
+    {
+      "team_id": "777",
+      "display_name": "Türkiye",
+      "group": "Group D",
+      "qualification_projection": "outside_round_of_32",
+      "projection_certainty": "provisional"
+    },
+    {
+      "team_id": "2384",
+      "display_name": "USA",
+      "group": "Group D",
+      "qualification_projection": "current_top_two",
+      "projection_certainty": "provisional"
+    },
+    {
+      "team_id": "5530",
+      "display_name": "Curaçao",
+      "group": "Group E",
+      "qualification_projection": "outside_round_of_32",
+      "projection_certainty": "provisional"
+    },
+    {
+      "team_id": "2382",
+      "display_name": "Ecuador",
+      "group": "Group E",
+      "qualification_projection": "current_third_outside_cutline",
+      "projection_certainty": "provisional"
+    },
+    {
+      "team_id": "25",
+      "display_name": "Germany",
+      "group": "Group E",
+      "qualification_projection": "current_top_two",
+      "projection_certainty": "provisional"
+    },
+    {
+      "team_id": "1501",
+      "display_name": "Ivory Coast",
+      "group": "Group E",
+      "qualification_projection": "current_top_two",
+      "projection_certainty": "provisional"
+    },
+    {
+      "team_id": "12",
+      "display_name": "Japan",
+      "group": "Group F",
+      "qualification_projection": "current_top_two",
+      "projection_certainty": "provisional"
+    },
+    {
+      "team_id": "1118",
+      "display_name": "Netherlands",
+      "group": "Group F",
+      "qualification_projection": "current_top_two",
+      "projection_certainty": "provisional"
+    },
+    {
+      "team_id": "5",
+      "display_name": "Sweden",
+      "group": "Group F",
+      "qualification_projection": "current_best_third",
+      "projection_certainty": "provisional"
+    },
+    {
+      "team_id": "28",
+      "display_name": "Tunisia",
+      "group": "Group F",
+      "qualification_projection": "outside_round_of_32",
+      "projection_certainty": "provisional"
+    },
+    {
+      "team_id": "1",
+      "display_name": "Belgium",
+      "group": "Group G",
+      "qualification_projection": "current_best_third",
+      "projection_certainty": "provisional"
+    },
+    {
+      "team_id": "32",
+      "display_name": "Egypt",
+      "group": "Group G",
+      "qualification_projection": "current_top_two",
+      "projection_certainty": "provisional"
+    },
+    {
+      "team_id": "22",
+      "display_name": "Iran",
+      "group": "Group G",
+      "qualification_projection": "current_top_two",
+      "projection_certainty": "provisional"
+    },
+    {
+      "team_id": "4673",
+      "display_name": "New Zealand",
+      "group": "Group G",
+      "qualification_projection": "outside_round_of_32",
+      "projection_certainty": "provisional"
+    },
+    {
+      "team_id": "1533",
+      "display_name": "Cape Verde Islands",
+      "group": "Group H",
+      "qualification_projection": "current_best_third",
+      "projection_certainty": "provisional"
+    },
+    {
+      "team_id": "23",
+      "display_name": "Saudi Arabia",
+      "group": "Group H",
+      "qualification_projection": "outside_round_of_32",
+      "projection_certainty": "provisional"
+    },
+    {
+      "team_id": "9",
+      "display_name": "Spain",
+      "group": "Group H",
+      "qualification_projection": "current_top_two",
+      "projection_certainty": "provisional"
+    },
+    {
+      "team_id": "7",
+      "display_name": "Uruguay",
+      "group": "Group H",
+      "qualification_projection": "current_top_two",
+      "projection_certainty": "provisional"
+    },
+    {
+      "team_id": "2",
+      "display_name": "France",
+      "group": "Group I",
+      "qualification_projection": "current_top_two",
+      "projection_certainty": "provisional"
+    },
+    {
+      "team_id": "1567",
+      "display_name": "Iraq",
+      "group": "Group I",
+      "qualification_projection": "outside_round_of_32",
+      "projection_certainty": "provisional"
+    },
+    {
+      "team_id": "1090",
+      "display_name": "Norway",
+      "group": "Group I",
+      "qualification_projection": "current_top_two",
+      "projection_certainty": "provisional"
+    },
+    {
+      "team_id": "13",
+      "display_name": "Senegal",
+      "group": "Group I",
+      "qualification_projection": "current_third_outside_cutline",
+      "projection_certainty": "provisional"
+    },
+    {
+      "team_id": "1532",
+      "display_name": "Algeria",
+      "group": "Group J",
+      "qualification_projection": "current_best_third",
+      "projection_certainty": "provisional"
+    },
+    {
+      "team_id": "26",
+      "display_name": "Argentina",
+      "group": "Group J",
+      "qualification_projection": "current_top_two",
+      "projection_certainty": "provisional"
+    },
+    {
+      "team_id": "775",
+      "display_name": "Austria",
+      "group": "Group J",
+      "qualification_projection": "current_top_two",
+      "projection_certainty": "provisional"
+    },
+    {
+      "team_id": "1548",
+      "display_name": "Jordan",
+      "group": "Group J",
+      "qualification_projection": "outside_round_of_32",
+      "projection_certainty": "provisional"
+    },
+    {
+      "team_id": "8",
+      "display_name": "Colombia",
+      "group": "Group K",
+      "qualification_projection": "current_top_two",
+      "projection_certainty": "provisional"
+    },
+    {
+      "team_id": "1508",
+      "display_name": "Congo DR",
+      "group": "Group K",
+      "qualification_projection": "current_third_outside_cutline",
+      "projection_certainty": "provisional"
+    },
+    {
+      "team_id": "27",
+      "display_name": "Portugal",
+      "group": "Group K",
+      "qualification_projection": "current_top_two",
+      "projection_certainty": "provisional"
+    },
+    {
+      "team_id": "1568",
+      "display_name": "Uzbekistan",
+      "group": "Group K",
+      "qualification_projection": "outside_round_of_32",
+      "projection_certainty": "provisional"
+    },
+    {
+      "team_id": "3",
+      "display_name": "Croatia",
+      "group": "Group L",
+      "qualification_projection": "current_best_third",
+      "projection_certainty": "provisional"
+    },
+    {
+      "team_id": "10",
+      "display_name": "England",
+      "group": "Group L",
+      "qualification_projection": "current_top_two",
+      "projection_certainty": "provisional"
+    },
+    {
+      "team_id": "1504",
+      "display_name": "Ghana",
+      "group": "Group L",
+      "qualification_projection": "current_top_two",
+      "projection_certainty": "provisional"
+    },
+    {
+      "team_id": "11",
+      "display_name": "Panama",
+      "group": "Group L",
+      "qualification_projection": "outside_round_of_32",
+      "projection_certainty": "provisional"
+    }
+  ],
+  "matches": [
+    {
+      "round": "round_of_32",
+      "match_id": "20260073",
+      "source_fixture_id": "20260073",
+      "slot": "R32-1",
+      "kickoff_at": "2026-06-28T12:00:00-07:00",
+      "venue": {
+        "id": 863937,
+        "name": "SoFi Stadium",
+        "city": "Inglewood"
+      },
+      "projection_status": "projected_matchup",
+      "home_seed_label": "Runner-up Group A",
+      "away_seed_label": "Runner-up Group B",
+      "team_ids": [
+        "17",
+        "5529"
+      ]
+    },
+    {
+      "round": "round_of_32",
+      "match_id": "20260076",
+      "source_fixture_id": "20260076",
+      "slot": "R32-2",
+      "kickoff_at": "2026-06-29T12:00:00-05:00",
+      "venue": {
+        "id": 881985,
+        "name": "NRG Stadium",
+        "city": "Houston"
+      },
+      "projection_status": "projected_matchup",
+      "home_seed_label": "Winner Group C",
+      "away_seed_label": "Runner-up Group F",
+      "team_ids": [
+        "6",
+        "12"
+      ]
+    },
+    {
+      "round": "round_of_32",
+      "match_id": "20260074",
+      "source_fixture_id": "20260074",
+      "slot": "R32-3",
+      "kickoff_at": "2026-06-29T16:30:00-04:00",
+      "venue": {
+        "id": 696937,
+        "name": "Gillette Stadium",
+        "city": "Foxborough"
+      },
+      "projection_status": "candidate_pool",
+      "home_seed_label": "Winner Group E",
+      "away_seed_label": "3rd Group A/B/C/D/F",
+      "home_team_id": "25",
+      "away_team_id": null,
+      "candidate_team_ids": [
+        "1113",
+        "5",
+        "1108",
+        "2380"
+      ],
+      "candidate_group_letters": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "F"
+      ]
+    },
+    {
+      "round": "round_of_32",
+      "match_id": "20260075",
+      "source_fixture_id": "20260075",
+      "slot": "R32-4",
+      "kickoff_at": "2026-06-29T19:00:00-06:00",
+      "venue": {
+        "id": 820891,
+        "name": "Estadio BBVA",
+        "city": "Guadalupe"
+      },
+      "projection_status": "projected_matchup",
+      "home_seed_label": "Winner Group F",
+      "away_seed_label": "Runner-up Group C",
+      "team_ids": [
+        "1118",
+        "31"
+      ]
+    },
+    {
+      "round": "round_of_32",
+      "match_id": "20260078",
+      "source_fixture_id": "20260078",
+      "slot": "R32-5",
+      "kickoff_at": "2026-06-30T12:00:00-05:00",
+      "venue": {
+        "id": 704235,
+        "name": "AT&T Stadium",
+        "city": "Arlington"
+      },
+      "projection_status": "projected_matchup",
+      "home_seed_label": "Runner-up Group E",
+      "away_seed_label": "Runner-up Group I",
+      "team_ids": [
+        "1501",
+        "1090"
+      ]
+    },
+    {
+      "round": "round_of_32",
+      "match_id": "20260077",
+      "source_fixture_id": "20260077",
+      "slot": "R32-6",
+      "kickoff_at": "2026-06-30T17:00:00-04:00",
+      "venue": {
+        "id": 88210,
+        "name": "MetLife Stadium",
+        "city": "East Rutherford"
+      },
+      "projection_status": "candidate_pool",
+      "home_seed_label": "Winner Group I",
+      "away_seed_label": "3rd Group C/D/F/G/H",
+      "home_team_id": "2",
+      "away_team_id": null,
+      "candidate_team_ids": [
+        "5",
+        "1108",
+        "2380",
+        "1533",
+        "1"
+      ],
+      "candidate_group_letters": [
+        "C",
+        "D",
+        "F",
+        "G",
+        "H"
+      ]
+    },
+    {
+      "round": "round_of_32",
+      "match_id": "20260079",
+      "source_fixture_id": "20260079",
+      "slot": "R32-7",
+      "kickoff_at": "2026-06-30T19:00:00-06:00",
+      "venue": {
+        "id": 704332,
+        "name": "Estadio Azteca",
+        "city": "Mexico City"
+      },
+      "projection_status": "candidate_pool",
+      "home_seed_label": "Winner Group A",
+      "away_seed_label": "3rd Group C/E/F/H/I",
+      "home_team_id": "16",
+      "away_team_id": null,
+      "candidate_team_ids": [
+        "5",
+        "1108",
+        "1533"
+      ],
+      "candidate_group_letters": [
+        "C",
+        "E",
+        "F",
+        "H",
+        "I"
+      ]
+    },
+    {
+      "round": "round_of_32",
+      "match_id": "20260080",
+      "source_fixture_id": "20260080",
+      "slot": "R32-8",
+      "kickoff_at": "2026-07-01T12:00:00-04:00",
+      "venue": {
+        "id": 774933,
+        "name": "Mercedes-Benz Stadium",
+        "city": "Atlanta"
+      },
+      "projection_status": "candidate_pool",
+      "home_seed_label": "Winner Group L",
+      "away_seed_label": "3rd Group E/H/I/J/K",
+      "home_team_id": "10",
+      "away_team_id": null,
+      "candidate_team_ids": [
+        "1532",
+        "1533"
+      ],
+      "candidate_group_letters": [
+        "E",
+        "H",
+        "I",
+        "J",
+        "K"
+      ]
+    },
+    {
+      "round": "round_of_32",
+      "match_id": "20260082",
+      "source_fixture_id": "20260082",
+      "slot": "R32-9",
+      "kickoff_at": "2026-07-01T13:00:00-07:00",
+      "venue": {
+        "id": 136154,
+        "name": "Lumen Field",
+        "city": "Seattle"
+      },
+      "projection_status": "candidate_pool",
+      "home_seed_label": "Winner Group G",
+      "away_seed_label": "3rd Group A/E/H/I/J",
+      "home_team_id": "32",
+      "away_team_id": null,
+      "candidate_team_ids": [
+        "1532",
+        "1533"
+      ],
+      "candidate_group_letters": [
+        "A",
+        "E",
+        "H",
+        "I",
+        "J"
+      ]
+    },
+    {
+      "round": "round_of_32",
+      "match_id": "20260081",
+      "source_fixture_id": "20260081",
+      "slot": "R32-10",
+      "kickoff_at": "2026-07-01T17:00:00-07:00",
+      "venue": {
+        "id": 275274,
+        "name": "Levi's Stadium",
+        "city": "Santa Clara"
+      },
+      "projection_status": "candidate_pool",
+      "home_seed_label": "Winner Group D",
+      "away_seed_label": "3rd Group B/E/F/I/J",
+      "home_team_id": "2384",
+      "away_team_id": null,
+      "candidate_team_ids": [
+        "1113",
+        "5",
+        "1532"
+      ],
+      "candidate_group_letters": [
+        "B",
+        "E",
+        "F",
+        "I",
+        "J"
+      ]
+    },
+    {
+      "round": "round_of_32",
+      "match_id": "20260084",
+      "source_fixture_id": "20260084",
+      "slot": "R32-11",
+      "kickoff_at": "2026-07-02T12:00:00-07:00",
+      "venue": {
+        "id": 863937,
+        "name": "SoFi Stadium",
+        "city": "Inglewood"
+      },
+      "projection_status": "projected_matchup",
+      "home_seed_label": "Winner Group H",
+      "away_seed_label": "Runner-up Group J",
+      "team_ids": [
+        "9",
+        "775"
+      ]
+    },
+    {
+      "round": "round_of_32",
+      "match_id": "20260083",
+      "source_fixture_id": "20260083",
+      "slot": "R32-12",
+      "kickoff_at": "2026-07-02T19:00:00-04:00",
+      "venue": {
+        "id": 279978,
+        "name": "BMO Field",
+        "city": "Toronto"
+      },
+      "projection_status": "projected_matchup",
+      "home_seed_label": "Runner-up Group K",
+      "away_seed_label": "Runner-up Group L",
+      "team_ids": [
+        "27",
+        "1504"
+      ]
+    },
+    {
+      "round": "round_of_32",
+      "match_id": "20260085",
+      "source_fixture_id": "20260085",
+      "slot": "R32-13",
+      "kickoff_at": "2026-07-02T20:00:00-07:00",
+      "venue": {
+        "id": 738446,
+        "name": "BC Place",
+        "city": "Vancouver"
+      },
+      "projection_status": "candidate_pool",
+      "home_seed_label": "Winner Group B",
+      "away_seed_label": "3rd Group E/F/G/I/J",
+      "home_team_id": "15",
+      "away_team_id": null,
+      "candidate_team_ids": [
+        "5",
+        "1532",
+        "1"
+      ],
+      "candidate_group_letters": [
+        "E",
+        "F",
+        "G",
+        "I",
+        "J"
+      ]
+    },
+    {
+      "round": "round_of_32",
+      "match_id": "20260088",
+      "source_fixture_id": "20260088",
+      "slot": "R32-14",
+      "kickoff_at": "2026-07-03T13:00:00-05:00",
+      "venue": {
+        "id": 704235,
+        "name": "AT&T Stadium",
+        "city": "Arlington"
+      },
+      "projection_status": "projected_matchup",
+      "home_seed_label": "Runner-up Group D",
+      "away_seed_label": "Runner-up Group G",
+      "team_ids": [
+        "20",
+        "22"
+      ]
+    },
+    {
+      "round": "round_of_32",
+      "match_id": "20260086",
+      "source_fixture_id": "20260086",
+      "slot": "R32-15",
+      "kickoff_at": "2026-07-03T18:00:00-04:00",
+      "venue": {
+        "id": 305449,
+        "name": "Hard Rock Stadium",
+        "city": "Miami Gardens"
+      },
+      "projection_status": "projected_matchup",
+      "home_seed_label": "Winner Group J",
+      "away_seed_label": "Runner-up Group H",
+      "team_ids": [
+        "26",
+        "7"
+      ]
+    },
+    {
+      "round": "round_of_32",
+      "match_id": "20260087",
+      "source_fixture_id": "20260087",
+      "slot": "R32-16",
+      "kickoff_at": "2026-07-03T20:30:00-05:00",
+      "venue": {
+        "id": 757227,
+        "name": "Arrowhead Stadium",
+        "city": "Kansas City"
+      },
+      "projection_status": "candidate_pool",
+      "home_seed_label": "Winner Group K",
+      "away_seed_label": "3rd Group D/E/I/J/L",
+      "home_team_id": "8",
+      "away_team_id": null,
+      "candidate_team_ids": [
+        "3",
+        "1532",
+        "2380"
+      ],
+      "candidate_group_letters": [
+        "D",
+        "E",
+        "I",
+        "J",
+        "L"
+      ]
+    },
+    {
+      "round": "round_of_16",
+      "match_id": "20260090",
+      "source_fixture_id": "20260090",
+      "slot": "R16-1",
+      "kickoff_at": "2026-07-04T12:00:00-05:00",
+      "venue": {
+        "id": 881985,
+        "name": "NRG Stadium",
+        "city": "Houston"
+      },
+      "projection_status": "derived_from_future_results",
+      "source_match_ids": [
+        "20260073",
+        "20260074"
+      ],
+      "home_seed_label": "Winner Match 73",
+      "away_seed_label": "Winner Match 75"
+    },
+    {
+      "round": "round_of_16",
+      "match_id": "20260089",
+      "source_fixture_id": "20260089",
+      "slot": "R16-2",
+      "kickoff_at": "2026-07-04T17:00:00-04:00",
+      "venue": {
+        "id": 189352,
+        "name": "Lincoln Financial Field",
+        "city": "Philadelphia"
+      },
+      "projection_status": "derived_from_future_results",
+      "source_match_ids": [
+        "20260076",
+        "20260078"
+      ],
+      "home_seed_label": "Winner Match 74",
+      "away_seed_label": "Winner Match 77"
+    },
+    {
+      "round": "round_of_16",
+      "match_id": "20260091",
+      "source_fixture_id": "20260091",
+      "slot": "R16-3",
+      "kickoff_at": "2026-07-05T16:00:00-04:00",
+      "venue": {
+        "id": 88210,
+        "name": "MetLife Stadium",
+        "city": "East Rutherford"
+      },
+      "projection_status": "derived_from_future_results",
+      "source_match_ids": [
+        "20260075",
+        "20260079"
+      ],
+      "home_seed_label": "Winner Match 76",
+      "away_seed_label": "Winner Match 78"
+    },
+    {
+      "round": "round_of_16",
+      "match_id": "20260092",
+      "source_fixture_id": "20260092",
+      "slot": "R16-4",
+      "kickoff_at": "2026-07-05T18:00:00-06:00",
+      "venue": {
+        "id": 704332,
+        "name": "Estadio Azteca",
+        "city": "Mexico City"
+      },
+      "projection_status": "derived_from_future_results",
+      "source_match_ids": [
+        "20260077",
+        "20260082"
+      ],
+      "home_seed_label": "Winner Match 79",
+      "away_seed_label": "Winner Match 80"
+    },
+    {
+      "round": "round_of_16",
+      "match_id": "20260093",
+      "source_fixture_id": "20260093",
+      "slot": "R16-5",
+      "kickoff_at": "2026-07-06T14:00:00-05:00",
+      "venue": {
+        "id": 704235,
+        "name": "AT&T Stadium",
+        "city": "Arlington"
+      },
+      "projection_status": "derived_from_future_results",
+      "source_match_ids": [
+        "20260080",
+        "20260084"
+      ],
+      "home_seed_label": "Winner Match 83",
+      "away_seed_label": "Winner Match 84"
+    },
+    {
+      "round": "round_of_16",
+      "match_id": "20260094",
+      "source_fixture_id": "20260094",
+      "slot": "R16-6",
+      "kickoff_at": "2026-07-06T17:00:00-07:00",
+      "venue": {
+        "id": 136154,
+        "name": "Lumen Field",
+        "city": "Seattle"
+      },
+      "projection_status": "derived_from_future_results",
+      "source_match_ids": [
+        "20260081",
+        "20260085"
+      ],
+      "home_seed_label": "Winner Match 81",
+      "away_seed_label": "Winner Match 82"
+    },
+    {
+      "round": "round_of_16",
+      "match_id": "20260095",
+      "source_fixture_id": "20260095",
+      "slot": "R16-7",
+      "kickoff_at": "2026-07-07T12:00:00-04:00",
+      "venue": {
+        "id": 774933,
+        "name": "Mercedes-Benz Stadium",
+        "city": "Atlanta"
+      },
+      "projection_status": "derived_from_future_results",
+      "source_match_ids": [
+        "20260083",
+        "20260086"
+      ],
+      "home_seed_label": "Winner Match 86",
+      "away_seed_label": "Winner Match 88"
+    },
+    {
+      "round": "round_of_16",
+      "match_id": "20260096",
+      "source_fixture_id": "20260096",
+      "slot": "R16-8",
+      "kickoff_at": "2026-07-07T13:00:00-07:00",
+      "venue": {
+        "id": 738446,
+        "name": "BC Place",
+        "city": "Vancouver"
+      },
+      "projection_status": "derived_from_future_results",
+      "source_match_ids": [
+        "20260088",
+        "20260087"
+      ],
+      "home_seed_label": "Winner Match 85",
+      "away_seed_label": "Winner Match 87"
+    },
+    {
+      "round": "quarterfinal",
+      "match_id": "20260097",
+      "source_fixture_id": "20260097",
+      "slot": "QF1",
+      "kickoff_at": "2026-07-09T16:00:00-04:00",
+      "venue": {
+        "id": 696937,
+        "name": "Gillette Stadium",
+        "city": "Foxborough"
+      },
+      "projection_status": "derived_from_future_results",
+      "source_match_ids": [
+        "20260090",
+        "20260091"
+      ],
+      "home_seed_label": "Winner Match 89",
+      "away_seed_label": "Winner Match 90"
+    },
+    {
+      "round": "quarterfinal",
+      "match_id": "20260098",
+      "source_fixture_id": "20260098",
+      "slot": "QF2",
+      "kickoff_at": "2026-07-10T12:00:00-07:00",
+      "venue": {
+        "id": 863937,
+        "name": "SoFi Stadium",
+        "city": "Inglewood"
+      },
+      "projection_status": "derived_from_future_results",
+      "source_match_ids": [
+        "20260089",
+        "20260093"
+      ],
+      "home_seed_label": "Winner Match 93",
+      "away_seed_label": "Winner Match 94"
+    },
+    {
+      "round": "quarterfinal",
+      "match_id": "20260099",
+      "source_fixture_id": "20260099",
+      "slot": "QF3",
+      "kickoff_at": "2026-07-11T17:00:00-04:00",
+      "venue": {
+        "id": 305449,
+        "name": "Hard Rock Stadium",
+        "city": "Miami Gardens"
+      },
+      "projection_status": "derived_from_future_results",
+      "source_match_ids": [
+        "20260092",
+        "20260095"
+      ],
+      "home_seed_label": "Winner Match 91",
+      "away_seed_label": "Winner Match 92"
+    },
+    {
+      "round": "quarterfinal",
+      "match_id": "20260100",
+      "source_fixture_id": "20260100",
+      "slot": "QF4",
+      "kickoff_at": "2026-07-11T20:00:00-05:00",
+      "venue": {
+        "id": 757227,
+        "name": "Arrowhead Stadium",
+        "city": "Kansas City"
+      },
+      "projection_status": "derived_from_future_results",
+      "source_match_ids": [
+        "20260094",
+        "20260096"
+      ],
+      "home_seed_label": "Winner Match 95",
+      "away_seed_label": "Winner Match 96"
+    },
+    {
+      "round": "semifinal",
+      "match_id": "20260101",
+      "source_fixture_id": "20260101",
+      "slot": "SF1",
+      "kickoff_at": "2026-07-14T14:00:00-05:00",
+      "venue": {
+        "id": 704235,
+        "name": "AT&T Stadium",
+        "city": "Arlington"
+      },
+      "projection_status": "derived_from_future_results",
+      "source_match_ids": [
+        "20260097",
+        "20260098"
+      ],
+      "home_seed_label": "Winner Match 97",
+      "away_seed_label": "Winner Match 98"
+    },
+    {
+      "round": "semifinal",
+      "match_id": "20260102",
+      "source_fixture_id": "20260102",
+      "slot": "SF2",
+      "kickoff_at": "2026-07-15T15:00:00-04:00",
+      "venue": {
+        "id": 774933,
+        "name": "Mercedes-Benz Stadium",
+        "city": "Atlanta"
+      },
+      "projection_status": "derived_from_future_results",
+      "source_match_ids": [
+        "20260099",
+        "20260100"
+      ],
+      "home_seed_label": "Winner Match 99",
+      "away_seed_label": "Winner Match 100"
+    },
+    {
+      "round": "final",
+      "match_id": "20260104",
+      "source_fixture_id": "20260104",
+      "slot": "F-104",
+      "kickoff_at": "2026-07-19T19:00:00+00:00",
+      "venue": {
+        "id": 2016,
+        "name": "New York New Jersey Stadium",
+        "city": "East Rutherford"
+      },
+      "projection_status": "derived_from_future_results",
+      "source_match_ids": [
+        "20260101",
+        "20260102"
+      ],
+      "home_seed_label": "Semifinal winner 1",
+      "away_seed_label": "Semifinal winner 2"
+    }
+  ]
+}

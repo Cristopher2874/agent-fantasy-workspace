@@ -1,0 +1,559 @@
+{
+  "schema_version": "aafwc.bracket-context.v1",
+  "generated_at": "2026-06-25T00:32:28Z",
+  "board_status": "planning_projection",
+  "official_knockout_fixtures_available": false,
+  "source_summary": {
+    "league_id": 1,
+    "season": 2026,
+    "live_fixture_count": 72,
+    "live_rounds": [
+      "Group Stage - 1",
+      "Group Stage - 2",
+      "Group Stage - 3"
+    ],
+    "reviewed_knockout_schedule_root": "data/api-football/world-cup-2026/fixtures/days",
+    "api_coverage": {
+      "fixtures": {
+        "events": true,
+        "lineups": true,
+        "statistics_fixtures": true,
+        "statistics_players": true
+      },
+      "standings": true,
+      "players": true,
+      "top_scorers": true,
+      "top_assists": true,
+      "top_cards": true,
+      "injuries": true,
+      "predictions": true,
+      "odds": true
+    },
+    "knockout_schedule_source": "reviewed_snapshot_with_provider_shaped_placeholders"
+  },
+  "qualification_projection": {
+    "all_groups_complete": false,
+    "current_best_third_groups": [
+      "B",
+      "F",
+      "C",
+      "L",
+      "J",
+      "D",
+      "H",
+      "G"
+    ],
+    "current_best_third_team_ids": [
+      "1113",
+      "5",
+      "1108",
+      "3",
+      "1532",
+      "2380",
+      "1533",
+      "1"
+    ],
+    "current_best_third_table": [
+      {
+        "table_id": "Third Place Ranking",
+        "table_type": "third_place",
+        "group": "Group B",
+        "group_letter": "B",
+        "rank": 1,
+        "team_id": "1113",
+        "display_name": "Bosnia & Herzegovina",
+        "logo": "https://media.api-sports.io/football/teams/1113.png",
+        "points": 4,
+        "goal_difference": -1,
+        "played": 3,
+        "wins": 1,
+        "draws": 1,
+        "losses": 1,
+        "goals_for": 5,
+        "goals_against": 6,
+        "form": "WLD",
+        "description": "Round of 32",
+        "status": "same",
+        "updated_at": "2026-06-25T00:00:00+00:00",
+        "qualification_projection": "current_best_third",
+        "projection_certainty": "provisional"
+      },
+      {
+        "table_id": "Third Place Ranking",
+        "table_type": "third_place",
+        "group": "Group F",
+        "group_letter": "F",
+        "rank": 2,
+        "team_id": "5",
+        "display_name": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/5.png",
+        "points": 3,
+        "goal_difference": 0,
+        "played": 2,
+        "wins": 1,
+        "draws": 0,
+        "losses": 1,
+        "goals_for": 6,
+        "goals_against": 6,
+        "form": "LW",
+        "description": "Round of 32",
+        "status": "same",
+        "updated_at": "2026-06-25T00:00:00+00:00",
+        "qualification_projection": "current_best_third",
+        "projection_certainty": "provisional"
+      },
+      {
+        "table_id": "Third Place Ranking",
+        "table_type": "third_place",
+        "group": "Group C",
+        "group_letter": "C",
+        "rank": 3,
+        "team_id": "1108",
+        "display_name": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/1108.png",
+        "points": 3,
+        "goal_difference": 0,
+        "played": 2,
+        "wins": 1,
+        "draws": 0,
+        "losses": 1,
+        "goals_for": 1,
+        "goals_against": 1,
+        "form": "LW",
+        "description": "Round of 32",
+        "status": "same",
+        "updated_at": "2026-06-25T00:00:00+00:00",
+        "qualification_projection": "current_best_third",
+        "projection_certainty": "provisional"
+      },
+      {
+        "table_id": "Third Place Ranking",
+        "table_type": "third_place",
+        "group": "Group L",
+        "group_letter": "L",
+        "rank": 4,
+        "team_id": "3",
+        "display_name": "Croatia",
+        "logo": "https://media.api-sports.io/football/teams/3.png",
+        "points": 3,
+        "goal_difference": -1,
+        "played": 2,
+        "wins": 1,
+        "draws": 0,
+        "losses": 1,
+        "goals_for": 3,
+        "goals_against": 4,
+        "form": "WL",
+        "description": "Round of 32",
+        "status": "same",
+        "updated_at": "2026-06-25T00:00:00+00:00",
+        "qualification_projection": "current_best_third",
+        "projection_certainty": "provisional"
+      },
+      {
+        "table_id": "Third Place Ranking",
+        "table_type": "third_place",
+        "group": "Group J",
+        "group_letter": "J",
+        "rank": 5,
+        "team_id": "1532",
+        "display_name": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/1532.png",
+        "points": 3,
+        "goal_difference": -2,
+        "played": 2,
+        "wins": 1,
+        "draws": 0,
+        "losses": 1,
+        "goals_for": 2,
+        "goals_against": 4,
+        "form": "WL",
+        "description": "Round of 32",
+        "status": "same",
+        "updated_at": "2026-06-25T00:00:00+00:00",
+        "qualification_projection": "current_best_third",
+        "projection_certainty": "provisional"
+      },
+      {
+        "table_id": "Third Place Ranking",
+        "table_type": "third_place",
+        "group": "Group D",
+        "group_letter": "D",
+        "rank": 6,
+        "team_id": "2380",
+        "display_name": "Paraguay",
+        "logo": "https://media.api-sports.io/football/teams/2380.png",
+        "points": 3,
+        "goal_difference": -2,
+        "played": 2,
+        "wins": 1,
+        "draws": 0,
+        "losses": 1,
+        "goals_for": 2,
+        "goals_against": 4,
+        "form": "WL",
+        "description": "Round of 32",
+        "status": "same",
+        "updated_at": "2026-06-25T00:00:00+00:00",
+        "qualification_projection": "current_best_third",
+        "projection_certainty": "provisional"
+      },
+      {
+        "table_id": "Third Place Ranking",
+        "table_type": "third_place",
+        "group": "Group H",
+        "group_letter": "H",
+        "rank": 7,
+        "team_id": "1533",
+        "display_name": "Cape Verde Islands",
+        "logo": "https://media.api-sports.io/football/teams/1533.png",
+        "points": 2,
+        "goal_difference": 0,
+        "played": 2,
+        "wins": 0,
+        "draws": 2,
+        "losses": 0,
+        "goals_for": 2,
+        "goals_against": 2,
+        "form": "DD",
+        "description": "Round of 32",
+        "status": "same",
+        "updated_at": "2026-06-25T00:00:00+00:00",
+        "qualification_projection": "current_best_third",
+        "projection_certainty": "provisional"
+      },
+      {
+        "table_id": "Third Place Ranking",
+        "table_type": "third_place",
+        "group": "Group G",
+        "group_letter": "G",
+        "rank": 8,
+        "team_id": "1",
+        "display_name": "Belgium",
+        "logo": "https://media.api-sports.io/football/teams/1.png",
+        "points": 2,
+        "goal_difference": 0,
+        "played": 2,
+        "wins": 0,
+        "draws": 2,
+        "losses": 0,
+        "goals_for": 1,
+        "goals_against": 1,
+        "form": "DD",
+        "description": "Round of 32",
+        "status": "same",
+        "updated_at": "2026-06-25T00:00:00+00:00",
+        "qualification_projection": "current_best_third",
+        "projection_certainty": "provisional"
+      }
+    ]
+  },
+  "round_of_32_resolution": {
+    "exact_match_ids": [
+      "20260073",
+      "20260076",
+      "20260075",
+      "20260078",
+      "20260084",
+      "20260083",
+      "20260088",
+      "20260086"
+    ],
+    "candidate_pool_matches": [
+      {
+        "match_id": "20260074",
+        "slot": "R32-3",
+        "home_team_id": "25",
+        "home_team_name": "Germany",
+        "away_seed_label": "3rd Group A/B/C/D/F",
+        "candidate_teams": [
+          {
+            "team_id": "1113",
+            "display_name": "Bosnia & Herzegovina",
+            "group_letter": "B",
+            "third_place_rank": 1,
+            "points": 4,
+            "goal_difference": -1
+          },
+          {
+            "team_id": "5",
+            "display_name": "Sweden",
+            "group_letter": "F",
+            "third_place_rank": 2,
+            "points": 3,
+            "goal_difference": 0
+          },
+          {
+            "team_id": "1108",
+            "display_name": "Scotland",
+            "group_letter": "C",
+            "third_place_rank": 3,
+            "points": 3,
+            "goal_difference": 0
+          },
+          {
+            "team_id": "2380",
+            "display_name": "Paraguay",
+            "group_letter": "D",
+            "third_place_rank": 6,
+            "points": 3,
+            "goal_difference": -2
+          }
+        ]
+      },
+      {
+        "match_id": "20260077",
+        "slot": "R32-6",
+        "home_team_id": "2",
+        "home_team_name": "France",
+        "away_seed_label": "3rd Group C/D/F/G/H",
+        "candidate_teams": [
+          {
+            "team_id": "5",
+            "display_name": "Sweden",
+            "group_letter": "F",
+            "third_place_rank": 2,
+            "points": 3,
+            "goal_difference": 0
+          },
+          {
+            "team_id": "1108",
+            "display_name": "Scotland",
+            "group_letter": "C",
+            "third_place_rank": 3,
+            "points": 3,
+            "goal_difference": 0
+          },
+          {
+            "team_id": "2380",
+            "display_name": "Paraguay",
+            "group_letter": "D",
+            "third_place_rank": 6,
+            "points": 3,
+            "goal_difference": -2
+          },
+          {
+            "team_id": "1533",
+            "display_name": "Cape Verde Islands",
+            "group_letter": "H",
+            "third_place_rank": 7,
+            "points": 2,
+            "goal_difference": 0
+          },
+          {
+            "team_id": "1",
+            "display_name": "Belgium",
+            "group_letter": "G",
+            "third_place_rank": 8,
+            "points": 2,
+            "goal_difference": 0
+          }
+        ]
+      },
+      {
+        "match_id": "20260079",
+        "slot": "R32-7",
+        "home_team_id": "16",
+        "home_team_name": "Mexico",
+        "away_seed_label": "3rd Group C/E/F/H/I",
+        "candidate_teams": [
+          {
+            "team_id": "5",
+            "display_name": "Sweden",
+            "group_letter": "F",
+            "third_place_rank": 2,
+            "points": 3,
+            "goal_difference": 0
+          },
+          {
+            "team_id": "1108",
+            "display_name": "Scotland",
+            "group_letter": "C",
+            "third_place_rank": 3,
+            "points": 3,
+            "goal_difference": 0
+          },
+          {
+            "team_id": "1533",
+            "display_name": "Cape Verde Islands",
+            "group_letter": "H",
+            "third_place_rank": 7,
+            "points": 2,
+            "goal_difference": 0
+          }
+        ]
+      },
+      {
+        "match_id": "20260080",
+        "slot": "R32-8",
+        "home_team_id": "10",
+        "home_team_name": "England",
+        "away_seed_label": "3rd Group E/H/I/J/K",
+        "candidate_teams": [
+          {
+            "team_id": "1532",
+            "display_name": "Algeria",
+            "group_letter": "J",
+            "third_place_rank": 5,
+            "points": 3,
+            "goal_difference": -2
+          },
+          {
+            "team_id": "1533",
+            "display_name": "Cape Verde Islands",
+            "group_letter": "H",
+            "third_place_rank": 7,
+            "points": 2,
+            "goal_difference": 0
+          }
+        ]
+      },
+      {
+        "match_id": "20260082",
+        "slot": "R32-9",
+        "home_team_id": "32",
+        "home_team_name": "Egypt",
+        "away_seed_label": "3rd Group A/E/H/I/J",
+        "candidate_teams": [
+          {
+            "team_id": "1532",
+            "display_name": "Algeria",
+            "group_letter": "J",
+            "third_place_rank": 5,
+            "points": 3,
+            "goal_difference": -2
+          },
+          {
+            "team_id": "1533",
+            "display_name": "Cape Verde Islands",
+            "group_letter": "H",
+            "third_place_rank": 7,
+            "points": 2,
+            "goal_difference": 0
+          }
+        ]
+      },
+      {
+        "match_id": "20260081",
+        "slot": "R32-10",
+        "home_team_id": "2384",
+        "home_team_name": "USA",
+        "away_seed_label": "3rd Group B/E/F/I/J",
+        "candidate_teams": [
+          {
+            "team_id": "1113",
+            "display_name": "Bosnia & Herzegovina",
+            "group_letter": "B",
+            "third_place_rank": 1,
+            "points": 4,
+            "goal_difference": -1
+          },
+          {
+            "team_id": "5",
+            "display_name": "Sweden",
+            "group_letter": "F",
+            "third_place_rank": 2,
+            "points": 3,
+            "goal_difference": 0
+          },
+          {
+            "team_id": "1532",
+            "display_name": "Algeria",
+            "group_letter": "J",
+            "third_place_rank": 5,
+            "points": 3,
+            "goal_difference": -2
+          }
+        ]
+      },
+      {
+        "match_id": "20260085",
+        "slot": "R32-13",
+        "home_team_id": "15",
+        "home_team_name": "Switzerland",
+        "away_seed_label": "3rd Group E/F/G/I/J",
+        "candidate_teams": [
+          {
+            "team_id": "5",
+            "display_name": "Sweden",
+            "group_letter": "F",
+            "third_place_rank": 2,
+            "points": 3,
+            "goal_difference": 0
+          },
+          {
+            "team_id": "1532",
+            "display_name": "Algeria",
+            "group_letter": "J",
+            "third_place_rank": 5,
+            "points": 3,
+            "goal_difference": -2
+          },
+          {
+            "team_id": "1",
+            "display_name": "Belgium",
+            "group_letter": "G",
+            "third_place_rank": 8,
+            "points": 2,
+            "goal_difference": 0
+          }
+        ]
+      },
+      {
+        "match_id": "20260087",
+        "slot": "R32-16",
+        "home_team_id": "8",
+        "home_team_name": "Colombia",
+        "away_seed_label": "3rd Group D/E/I/J/L",
+        "candidate_teams": [
+          {
+            "team_id": "3",
+            "display_name": "Croatia",
+            "group_letter": "L",
+            "third_place_rank": 4,
+            "points": 3,
+            "goal_difference": -1
+          },
+          {
+            "team_id": "1532",
+            "display_name": "Algeria",
+            "group_letter": "J",
+            "third_place_rank": 5,
+            "points": 3,
+            "goal_difference": -2
+          },
+          {
+            "team_id": "2380",
+            "display_name": "Paraguay",
+            "group_letter": "D",
+            "third_place_rank": 6,
+            "points": 3,
+            "goal_difference": -2
+          }
+        ]
+      }
+    ]
+  },
+  "available_api_context_not_injected": [
+    {
+      "endpoint": "coachs",
+      "reason": "National-team coach context can help with style and stability."
+    },
+    {
+      "endpoint": "injuries",
+      "reason": "Late availability risk can materially change bracket strength."
+    },
+    {
+      "endpoint": "predictions",
+      "reason": "Pre-match probabilities are available but intentionally excluded from the static sample because they are volatile."
+    },
+    {
+      "endpoint": "odds",
+      "reason": "Market pricing is available close to kickoff but is volatile and time-limited."
+    },
+    {
+      "endpoint": "fixtures/headtohead",
+      "reason": "Historical matchup context can support manual research when desired."
+    }
+  ]
+}
