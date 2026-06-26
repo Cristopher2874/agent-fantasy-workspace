@@ -33,6 +33,7 @@ This folder shows the participant-visible workspace and prompt contract for a on
 
 - Return one JSON object that matches `workspace/output-format/bracket-submission.schema.json`.
 - Use one pick for every required knockout match in `bracket.json`.
+- Build an advancement map from early rounds to later rounds. For matches with `source_match_ids`, the submitted winner must be one of the winners already picked for those source matches.
 - Use only official `winner_team_id` values allowed by the bracket board.
 - Set `champion_team_id` to the same winner submitted for the final match.
 - The organizer stores the accepted bracket submission later at `gameplay-submissions/teams/sample-team-001/brackets/knockout-2026.json` and the scoring workflow reads that same file without rewriting it.

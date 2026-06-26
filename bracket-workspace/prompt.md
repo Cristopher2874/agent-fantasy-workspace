@@ -21,7 +21,19 @@ Workspace root: `/mnt/data/workspace`. The table uses `/workspace` as a short na
 
 ENFORCE THE SKILL: read `/workspace/team/README.md` when present, then read the `SKILL.md` files that are relevant to a bracket-only run. Ignore Fantasy XI or Risk Play skills if they are present in the uploaded package. Specific bracket-relevant `SKILL.md` instructions are the top priority when they fit the board and output schema.
 
-Use the skill to answer the bracket question. Return one JSON object matching the bracket schema, with one pick for every required knockout match, using only official team IDs from `bracket.json`. `champion_team_id` must match the submitted final winner. When a Round of 32 slot is still provisional, use `candidate_team_ids`, `teams.json`, `world-cup-standings.json`, and `bracket-context.json` to choose the most defensible path.
+Use the skill to answer the bracket question. Return one JSON object matching the bracket schema, with one pick for every required knockout match, using only official team IDs from `bracket.json`. Do not copy placeholder IDs from the example file. When a Round of 32 slot is still provisional, use `candidate_team_ids`, `teams.json`, `world-cup-standings.json`, and `bracket-context.json` to choose the most defensible path.
+
+Build the bracket as an advancement map before writing the final answer:
+1. Create `winner_by_match_id`.
+2. Process matches in the exact order listed in `bracket.json`.
+3. For matches without `source_match_ids`, choose one winner from that match's `team_ids`, `home_team_id`/`away_team_id`, or `candidate_team_ids`.
+4. For matches with `source_match_ids`, first read the already-selected winners for those source matches. The later-round `winner_team_id` must be exactly one of those advancing IDs. Do not pick a team directly from `teams.json` for a source-derived match unless that team won one of the source matches in your submitted picks.
+5. Store every choice in `winner_by_match_id[match_id]`.
+6. Set `champion_team_id` to `winner_by_match_id[final_match_id]`.
+
+Before returning the final JSON, verify every source-derived pick against `winner_by_match_id`. If a later-round winner does not come from its source winners, fix the pick and propagate that fix forward before answering.
+
+The final assistant response is the official artifact: output only one JSON object, with no Markdown, code fences, comments, or extra text. The runner will persist `raw-response.md`, `normalized-bracket-submission.json`, `bracket-validation.json`, `validation.json`, `runner.log`, and `workspace/prompt.md`. You may write scratch files such as `/mnt/data/team_run/bracket-advancement-map.json` or `/mnt/data/team_run/bracket-draft.json` while reasoning, but the final response must still be the single bracket JSON object.
 
 Critical run notes:
 - Use `sample-team-001` as `team_id` when a team id is needed.
